@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[checkPortal(${1:toy})]]></content>
+    <tabTrigger>checkPortal(toy)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleBoard</description>
+</snippet>

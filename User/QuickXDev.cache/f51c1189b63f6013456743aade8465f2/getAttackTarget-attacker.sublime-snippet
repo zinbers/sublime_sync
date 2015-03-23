@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getAttackTarget(${1:attacker})]]></content>
+    <tabTrigger>getAttackTarget(attacker)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleBoard</description>
+</snippet>

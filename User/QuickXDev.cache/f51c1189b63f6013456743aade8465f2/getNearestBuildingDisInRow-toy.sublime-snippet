@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getNearestBuildingDisInRow(${1:toy})]]></content>
+    <tabTrigger>getNearestBuildingDisInRow(toy)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleBoard</description>
+</snippet>

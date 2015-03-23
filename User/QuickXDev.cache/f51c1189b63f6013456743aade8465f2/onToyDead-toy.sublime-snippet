@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onToyDead(${1:toy})]]></content>
+    <tabTrigger>onToyDead(toy)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleBoard</description>
+</snippet>

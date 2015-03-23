@@ -1,0 +1,23 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"ColorPicker",
+		"ColorSchemeSelector",
+		"DocBlockr",
+		"FormatLua",
+		"Package Control",
+		"PlainTasks",
+		"QuickXDev",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-lua",
+		"SublimeLinter-luacheck",
+		"SublimeREPL",
+		"Theme - Soda",
+		"VIM Navigation"
+	]
+}
