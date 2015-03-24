@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setBattleLose(${1:data})]]></content>
+    <tabTrigger>setBattleLose(data)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleUI</description>
+</snippet>

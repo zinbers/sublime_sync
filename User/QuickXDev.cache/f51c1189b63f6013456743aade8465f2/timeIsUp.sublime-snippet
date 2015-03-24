@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[timeIsUp()]]></content>
+    <tabTrigger>timeIsUp()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleBoard</description>
+</snippet>

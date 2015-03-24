@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setBattleWin(${1:data})]]></content>
+    <tabTrigger>setBattleWin(data)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleUI</description>
+</snippet>
