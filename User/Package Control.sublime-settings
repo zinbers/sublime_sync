@@ -5,8 +5,10 @@
 	"installed_packages":
 	[
 		"AutoFileName",
+		"Codecs33",
 		"ColorPicker",
 		"ColorSchemeSelector",
+		"ConvertToUTF8",
 		"DocBlockr",
 		"FormatLua",
 		"Markdown Extended",
