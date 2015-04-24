@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setFlyFlag()]]></content>
+    <tabTrigger>setFlyFlag()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Toy</description>
+</snippet>

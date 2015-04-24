@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[aimToy]]></content>
+    <tabTrigger>aimToy</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

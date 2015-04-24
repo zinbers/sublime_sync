@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initTargetPosition()]]></content>
+    <tabTrigger>initTargetPosition()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Toy</description>
+</snippet>

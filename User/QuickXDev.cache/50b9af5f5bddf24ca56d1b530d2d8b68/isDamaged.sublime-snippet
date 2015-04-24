@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isDamaged()]]></content>
+    <tabTrigger>isDamaged()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Toy</description>
+</snippet>

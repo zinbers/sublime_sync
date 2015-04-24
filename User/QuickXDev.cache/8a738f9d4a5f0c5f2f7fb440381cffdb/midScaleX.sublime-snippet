@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[midScaleX]]></content>
+    <tabTrigger>midScaleX</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

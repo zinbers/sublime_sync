@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[labelAtlas]]></content>
+    <tabTrigger>labelAtlas</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

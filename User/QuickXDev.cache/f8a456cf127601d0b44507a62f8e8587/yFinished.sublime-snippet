@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[yFinished]]></content>
+    <tabTrigger>yFinished</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[numberBgSize]]></content>
+    <tabTrigger>numberBgSize</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

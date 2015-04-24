@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[scoreTextLabelSize]]></content>
+    <tabTrigger>scoreTextLabelSize</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

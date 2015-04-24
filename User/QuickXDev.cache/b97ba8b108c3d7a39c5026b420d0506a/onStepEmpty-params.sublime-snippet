@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onStepEmpty(${1:params})]]></content>
+    <tabTrigger>onStepEmpty(params)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GameScene</description>
+</snippet>

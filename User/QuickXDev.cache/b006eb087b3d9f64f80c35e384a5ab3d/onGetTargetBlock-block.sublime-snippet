@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onGetTargetBlock(${1:block})]]></content>
+    <tabTrigger>onGetTargetBlock(block)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GameBoard</description>
+</snippet>

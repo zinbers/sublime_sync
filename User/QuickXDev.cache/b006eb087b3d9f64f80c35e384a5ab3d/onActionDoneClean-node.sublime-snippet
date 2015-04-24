@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onActionDoneClean(${1:node})]]></content>
+    <tabTrigger>onActionDoneClean(node)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GameBoard</description>
+</snippet>

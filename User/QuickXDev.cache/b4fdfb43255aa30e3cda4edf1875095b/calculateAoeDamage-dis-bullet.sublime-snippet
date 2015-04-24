@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[calculateAoeDamage(${1:dis}, ${2:bullet})]]></content>
+    <tabTrigger>calculateAoeDamage(dis, bullet)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleScene</description>
+</snippet>

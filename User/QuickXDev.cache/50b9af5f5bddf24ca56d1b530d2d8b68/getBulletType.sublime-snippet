@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getBulletType()]]></content>
+    <tabTrigger>getBulletType()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Toy</description>
+</snippet>

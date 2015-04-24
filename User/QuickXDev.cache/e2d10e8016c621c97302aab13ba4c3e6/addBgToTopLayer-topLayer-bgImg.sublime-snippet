@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addBgToTopLayer(${1:topLayer}, ${2:bgImg})]]></content>
+    <tabTrigger>addBgToTopLayer(topLayer, bgImg)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GameScene</description>
+</snippet>

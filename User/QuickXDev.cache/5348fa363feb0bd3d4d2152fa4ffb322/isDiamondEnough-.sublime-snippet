@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isDiamondEnough(${1:...})]]></content>
+    <tabTrigger>isDiamondEnough(...)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleUI</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getSkillInfoBySkillId(${1:skillId})]]></content>
+    <tabTrigger>getSkillInfoBySkillId(skillId)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleUI</description>
+</snippet>

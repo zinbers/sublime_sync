@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getModeConfig(${1:index})]]></content>
+    <tabTrigger>getModeConfig(index)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>MapScene</description>
+</snippet>

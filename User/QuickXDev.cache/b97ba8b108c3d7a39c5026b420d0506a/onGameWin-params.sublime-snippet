@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onGameWin(${1:params})]]></content>
+    <tabTrigger>onGameWin(params)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GameScene</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[sortBlocks()]]></content>
+    <tabTrigger>sortBlocks()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GameBoard</description>
+</snippet>

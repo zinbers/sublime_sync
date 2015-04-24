@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getDeadTarget(${1:attacker})]]></content>
+    <tabTrigger>getDeadTarget(attacker)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleScene</description>
+</snippet>

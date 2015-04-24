@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[sortZOrderByPosition(${1:obj})]]></content>
+    <tabTrigger>sortZOrderByPosition(obj)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleScene</description>
+</snippet>

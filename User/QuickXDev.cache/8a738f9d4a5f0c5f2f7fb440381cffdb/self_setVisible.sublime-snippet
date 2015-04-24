@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[self.setVisible]]></content>
+    <tabTrigger>self.setVisible</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

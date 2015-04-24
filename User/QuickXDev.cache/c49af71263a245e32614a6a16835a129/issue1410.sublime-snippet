@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[issue1410]]></content>
+    <tabTrigger>issue1410</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

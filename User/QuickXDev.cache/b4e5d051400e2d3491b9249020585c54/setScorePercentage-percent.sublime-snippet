@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setScorePercentage(${1:percent})]]></content>
+    <tabTrigger>setScorePercentage(percent)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GameScene</description>
+</snippet>

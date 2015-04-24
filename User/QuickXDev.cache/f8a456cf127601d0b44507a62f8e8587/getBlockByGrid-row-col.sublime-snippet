@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getBlockByGrid(${1:row}, ${2:col})]]></content>
+    <tabTrigger>getBlockByGrid(row, col)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GameBoard</description>
+</snippet>

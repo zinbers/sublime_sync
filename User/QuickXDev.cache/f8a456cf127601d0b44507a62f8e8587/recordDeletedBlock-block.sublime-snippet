@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[recordDeletedBlock(${1:block})]]></content>
+    <tabTrigger>recordDeletedBlock(block)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GameBoard</description>
+</snippet>

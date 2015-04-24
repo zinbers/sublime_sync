@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[stopSearch]]></content>
+    <tabTrigger>stopSearch</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

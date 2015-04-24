@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[checkBlockObstacle(${1:block})]]></content>
+    <tabTrigger>checkBlockObstacle(block)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GameBoard</description>
+</snippet>

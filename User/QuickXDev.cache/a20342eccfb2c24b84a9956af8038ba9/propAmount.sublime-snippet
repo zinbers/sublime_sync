@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[propAmount]]></content>
+    <tabTrigger>propAmount</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

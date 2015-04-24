@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[dead()]]></content>
+    <tabTrigger>dead()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Toy</description>
+</snippet>

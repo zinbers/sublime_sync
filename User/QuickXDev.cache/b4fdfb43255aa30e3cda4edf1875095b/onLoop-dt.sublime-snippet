@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onLoop(${1:dt})]]></content>
+    <tabTrigger>onLoop(dt)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleScene</description>
+</snippet>

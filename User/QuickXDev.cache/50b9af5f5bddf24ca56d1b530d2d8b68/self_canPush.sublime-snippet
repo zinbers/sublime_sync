@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[self.canPush]]></content>
+    <tabTrigger>self.canPush</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

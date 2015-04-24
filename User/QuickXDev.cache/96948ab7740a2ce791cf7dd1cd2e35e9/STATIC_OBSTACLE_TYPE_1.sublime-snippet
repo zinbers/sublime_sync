@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[STATIC_OBSTACLE_TYPE_1]]></content>
+    <tabTrigger>STATIC_OBSTACLE_TYPE_1</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

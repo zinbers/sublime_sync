@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[GAME_MODE_9]]></content>
+    <tabTrigger>GAME_MODE_9</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

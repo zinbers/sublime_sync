@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[MID_BACKCALLBACK]]></content>
+    <tabTrigger>MID_BACKCALLBACK</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,5 +1,7 @@
 {
 	"color_scheme": "Packages/User/SublimeLinter/iPlastic (SL).tmTheme",
+	"font_size": 12,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 	],

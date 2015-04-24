@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addRemainToTopLayer()]]></content>
+    <tabTrigger>addRemainToTopLayer()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TopLayer</description>
+</snippet>

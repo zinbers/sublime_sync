@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[runProp(${1:propBlock})]]></content>
+    <tabTrigger>runProp(propBlock)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GameBoard</description>
+</snippet>

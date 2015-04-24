@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onGameFail(${1:params})]]></content>
+    <tabTrigger>onGameFail(params)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GameScene</description>
+</snippet>

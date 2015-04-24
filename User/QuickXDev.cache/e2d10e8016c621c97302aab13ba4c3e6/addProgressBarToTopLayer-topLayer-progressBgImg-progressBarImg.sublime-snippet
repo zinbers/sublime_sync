@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addProgressBarToTopLayer(${1:topLayer}, ${2:progressBgImg}, ${3:progressBarImg})]]></content>
+    <tabTrigger>addProgressBarToTopLayer(topLayer, progressBgImg, progressBarImg)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GameScene</description>
+</snippet>

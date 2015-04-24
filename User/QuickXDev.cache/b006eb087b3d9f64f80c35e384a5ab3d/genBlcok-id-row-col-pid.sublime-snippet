@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[genBlcok(${1:id}, ${2:row}, ${3:col}, ${4:pid})]]></content>
+    <tabTrigger>genBlcok(id, row, col, pid)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GameBoard</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addRemainToTopLayer(${1:topLayer})]]></content>
+    <tabTrigger>addRemainToTopLayer(topLayer)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GameScene</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addObstacleToTopLayer(${1:topLayer})]]></content>
+    <tabTrigger>addObstacleToTopLayer(topLayer)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GameScene</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[findBlocksWithId(${1:id})]]></content>
+    <tabTrigger>findBlocksWithId(id)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GameBoard</description>
+</snippet>

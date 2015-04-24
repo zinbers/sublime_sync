@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[showWinLayer(${1:...})]]></content>
+    <tabTrigger>showWinLayer(...)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleScene</description>
+</snippet>

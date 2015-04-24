@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[refreshToysByBuilding(${1:building})]]></content>
+    <tabTrigger>refreshToysByBuilding(building)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleScene</description>
+</snippet>

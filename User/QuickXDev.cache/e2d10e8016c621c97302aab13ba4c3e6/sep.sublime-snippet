@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[sep]]></content>
+    <tabTrigger>sep</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

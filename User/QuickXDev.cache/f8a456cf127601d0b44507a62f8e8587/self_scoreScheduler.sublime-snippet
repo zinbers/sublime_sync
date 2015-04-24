@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[self.scoreScheduler]]></content>
+    <tabTrigger>self.scoreScheduler</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

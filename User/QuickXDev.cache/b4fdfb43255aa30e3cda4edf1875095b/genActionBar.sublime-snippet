@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[genActionBar()]]></content>
+    <tabTrigger>genActionBar()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleScene</description>
+</snippet>

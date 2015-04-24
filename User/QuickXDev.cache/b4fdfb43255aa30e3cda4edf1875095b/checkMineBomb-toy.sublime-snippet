@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[checkMineBomb(${1:toy})]]></content>
+    <tabTrigger>checkMineBomb(toy)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleScene</description>
+</snippet>

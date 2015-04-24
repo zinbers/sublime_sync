@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onMineBomb(${1:mine})]]></content>
+    <tabTrigger>onMineBomb(mine)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleScene</description>
+</snippet>

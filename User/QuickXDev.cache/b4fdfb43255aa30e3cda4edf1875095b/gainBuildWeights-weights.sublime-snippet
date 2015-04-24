@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[gainBuildWeights(${1:weights})]]></content>
+    <tabTrigger>gainBuildWeights(weights)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleScene</description>
+</snippet>

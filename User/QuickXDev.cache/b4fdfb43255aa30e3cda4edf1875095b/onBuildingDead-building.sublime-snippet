@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onBuildingDead(${1:building})]]></content>
+    <tabTrigger>onBuildingDead(building)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleScene</description>
+</snippet>

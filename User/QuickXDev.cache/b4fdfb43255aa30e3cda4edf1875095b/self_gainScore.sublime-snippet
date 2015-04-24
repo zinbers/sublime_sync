@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[self.gainScore]]></content>
+    <tabTrigger>self.gainScore</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

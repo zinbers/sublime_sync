@@ -1,0 +1,19 @@
+[
+    {
+        "caption": "Lua Template: New Class",
+        "command": "newclass"
+    },
+    {
+        "caption": "Lua Template: New Layer",
+        "command": "newlayer"
+    },
+    {
+        "caption": "Lua Template: New Function",
+        "command": "newfunction"
+    },
+    {
+        "caption": "Lua Template: Run With Simulator",
+        "command": "runwithsimulator"  
+    }
+ 
+]

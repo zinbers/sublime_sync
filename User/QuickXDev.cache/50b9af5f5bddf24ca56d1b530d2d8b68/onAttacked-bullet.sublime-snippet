@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onAttacked(${1:bullet})]]></content>
+    <tabTrigger>onAttacked(bullet)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Toy</description>
+</snippet>

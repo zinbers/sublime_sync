@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[inOneRowY(${1:objA}, ${2:objB})]]></content>
+    <tabTrigger>inOneRowY(objA, objB)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleScene</description>
+</snippet>

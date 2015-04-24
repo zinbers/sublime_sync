@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[kTagMenu1]]></content>
+    <tabTrigger>kTagMenu1</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[genBombfeather(${1:block})]]></content>
+    <tabTrigger>genBombfeather(block)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GameBoard</description>
+</snippet>

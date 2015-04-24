@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[updateFrozenState(${1:dt})]]></content>
+    <tabTrigger>updateFrozenState(dt)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Toy</description>
+</snippet>

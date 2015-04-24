@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addStepToTopLayer(${1:topLayer}, ${2:stepBgImg})]]></content>
+    <tabTrigger>addStepToTopLayer(topLayer, stepBgImg)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GameScene</description>
+</snippet>

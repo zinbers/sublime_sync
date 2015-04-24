@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTarget(${1:toy})]]></content>
+    <tabTrigger>setTarget(toy)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Toy</description>
+</snippet>

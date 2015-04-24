@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getRadius(${1:node})]]></content>
+    <tabTrigger>getRadius(node)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Toy</description>
+</snippet>

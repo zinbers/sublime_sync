@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[maxToyZOrder]]></content>
+    <tabTrigger>maxToyZOrder</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>
