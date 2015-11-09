@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[oy]]></content>
+    <tabTrigger>oy</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

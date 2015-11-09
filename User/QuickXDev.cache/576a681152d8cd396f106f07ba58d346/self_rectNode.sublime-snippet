@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[self.rectNode]]></content>
+    <tabTrigger>self.rectNode</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

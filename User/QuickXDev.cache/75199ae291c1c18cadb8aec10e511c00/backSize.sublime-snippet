@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[backSize]]></content>
+    <tabTrigger>backSize</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

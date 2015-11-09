@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isBuildingAttacked(${1:building})]]></content>
+    <tabTrigger>isBuildingAttacked(building)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleBoard</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[new(${1:o})]]></content>
+    <tabTrigger>new(o)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Test</description>
+</snippet>

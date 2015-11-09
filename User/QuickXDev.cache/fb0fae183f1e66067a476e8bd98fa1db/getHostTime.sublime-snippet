@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getHostTime()]]></content>
+    <tabTrigger>getHostTime()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleScene</description>
+</snippet>

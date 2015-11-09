@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getLevelBestScore(${1:level})]]></content>
+    <tabTrigger>getLevelBestScore(level)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UserData</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[downloadZip()]]></content>
+    <tabTrigger>downloadZip()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UpdateService</description>
+</snippet>

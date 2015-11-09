@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[submitDevMsg(${1:msg})]]></content>
+    <tabTrigger>submitDevMsg(msg)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>client</description>
+</snippet>

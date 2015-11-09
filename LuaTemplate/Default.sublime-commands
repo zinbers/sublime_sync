@@ -12,6 +12,10 @@
         "command": "newfunction"
     },
     {
+        "caption": "Lua Template: Run With Player",
+        "command": "runwithplayer"  
+    },
+    {
         "caption": "Lua Template: Run With Simulator",
         "command": "runwithsimulator"  
     }

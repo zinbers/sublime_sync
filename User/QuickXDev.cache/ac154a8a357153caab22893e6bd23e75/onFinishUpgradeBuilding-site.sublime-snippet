@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onFinishUpgradeBuilding(${1:site})]]></content>
+    <tabTrigger>onFinishUpgradeBuilding(site)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>totalData</description>
+</snippet>

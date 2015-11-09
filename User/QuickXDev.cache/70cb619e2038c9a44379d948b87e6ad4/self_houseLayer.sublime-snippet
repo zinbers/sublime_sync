@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[self.houseLayer]]></content>
+    <tabTrigger>self.houseLayer</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

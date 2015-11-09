@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[endIndex]]></content>
+    <tabTrigger>endIndex</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

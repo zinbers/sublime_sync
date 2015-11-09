@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[useDiamondSelected]]></content>
+    <tabTrigger>useDiamondSelected</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

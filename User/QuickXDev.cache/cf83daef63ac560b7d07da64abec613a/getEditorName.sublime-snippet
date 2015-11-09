@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getEditorName()]]></content>
+    <tabTrigger>getEditorName()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>MapFactory</description>
+</snippet>

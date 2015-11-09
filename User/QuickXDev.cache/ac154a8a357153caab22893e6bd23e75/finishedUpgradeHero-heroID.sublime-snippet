@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[finishedUpgradeHero(${1:heroID})]]></content>
+    <tabTrigger>finishedUpgradeHero(heroID)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>totalData</description>
+</snippet>

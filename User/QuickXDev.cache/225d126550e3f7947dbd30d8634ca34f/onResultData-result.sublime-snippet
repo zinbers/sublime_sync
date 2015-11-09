@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onResultData(${1:result})]]></content>
+    <tabTrigger>onResultData(result)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ReplayScene</description>
+</snippet>

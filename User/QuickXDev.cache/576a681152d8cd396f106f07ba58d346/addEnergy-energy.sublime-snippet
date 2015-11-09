@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addEnergy(${1:energy})]]></content>
+    <tabTrigger>addEnergy(energy)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleBoard</description>
+</snippet>

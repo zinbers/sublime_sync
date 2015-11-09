@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[radii]]></content>
+    <tabTrigger>radii</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

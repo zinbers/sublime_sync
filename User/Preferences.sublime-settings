@@ -1,6 +1,6 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/iPlastic (SL).tmTheme",
-	"font_size": 12,
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Bright (SL).tmTheme",
+	"font_size": 16,
 	"highlight_line": true,
 	"ignored_packages":
 	[

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getToyList()]]></content>
+    <tabTrigger>getToyList()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GameConfig</description>
+</snippet>

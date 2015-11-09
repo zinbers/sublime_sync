@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[USER_PROP_SWAP]]></content>
+    <tabTrigger>USER_PROP_SWAP</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

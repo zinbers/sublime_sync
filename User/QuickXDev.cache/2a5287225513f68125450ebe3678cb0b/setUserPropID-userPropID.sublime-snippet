@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setUserPropID(${1:userPropID})]]></content>
+    <tabTrigger>setUserPropID(userPropID)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleBoard</description>
+</snippet>

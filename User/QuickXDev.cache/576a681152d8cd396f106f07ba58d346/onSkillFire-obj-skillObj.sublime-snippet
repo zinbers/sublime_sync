@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onSkillFire(${1:obj}, ${2:skillObj})]]></content>
+    <tabTrigger>onSkillFire(obj, skillObj)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleBoard</description>
+</snippet>

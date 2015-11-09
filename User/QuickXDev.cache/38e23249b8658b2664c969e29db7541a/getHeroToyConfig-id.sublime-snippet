@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getHeroToyConfig(${1:id})]]></content>
+    <tabTrigger>getHeroToyConfig(id)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GameConfig</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeMapSnap()]]></content>
+    <tabTrigger>removeMapSnap()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>HomeScene</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[tmpPos]]></content>
+    <tabTrigger>tmpPos</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

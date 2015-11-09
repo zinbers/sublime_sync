@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getStar()]]></content>
+    <tabTrigger>getStar()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleScene</description>
+</snippet>

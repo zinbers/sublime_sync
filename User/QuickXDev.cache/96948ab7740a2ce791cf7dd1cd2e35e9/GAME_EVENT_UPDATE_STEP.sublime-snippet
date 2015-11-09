@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[GAME_EVENT_UPDATE_STEP]]></content>
+    <tabTrigger>GAME_EVENT_UPDATE_STEP</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

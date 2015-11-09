@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getNextLevelData()]]></content>
+    <tabTrigger>getNextLevelData()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>MapFactory</description>
+</snippet>

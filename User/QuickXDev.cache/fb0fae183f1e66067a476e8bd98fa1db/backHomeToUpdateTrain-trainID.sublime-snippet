@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[backHomeToUpdateTrain(${1:trainID})]]></content>
+    <tabTrigger>backHomeToUpdateTrain(trainID)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleScene</description>
+</snippet>

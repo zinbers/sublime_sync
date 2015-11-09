@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[genDefaultData()]]></content>
+    <tabTrigger>genDefaultData()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UserData</description>
+</snippet>

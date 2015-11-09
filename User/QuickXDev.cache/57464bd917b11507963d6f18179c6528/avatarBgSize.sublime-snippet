@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[avatarBgSize]]></content>
+    <tabTrigger>avatarBgSize</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

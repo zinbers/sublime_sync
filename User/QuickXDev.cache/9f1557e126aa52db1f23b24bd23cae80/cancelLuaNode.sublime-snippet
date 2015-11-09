@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cancelLuaNode()]]></content>
+    <tabTrigger>cancelLuaNode()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>HomeScene</description>
+</snippet>

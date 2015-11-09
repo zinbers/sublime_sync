@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setSkillAnimation()]]></content>
+    <tabTrigger>setSkillAnimation()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Skill16001</description>
+</snippet>

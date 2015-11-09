@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[flagNodeTouchInCocos]]></content>
+    <tabTrigger>flagNodeTouchInCocos</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

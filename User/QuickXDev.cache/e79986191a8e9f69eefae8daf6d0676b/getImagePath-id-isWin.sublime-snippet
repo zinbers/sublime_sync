@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getImagePath(${1:id}, ${2:isWin})]]></content>
+    <tabTrigger>getImagePath(id, isWin)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleUI</description>
+</snippet>

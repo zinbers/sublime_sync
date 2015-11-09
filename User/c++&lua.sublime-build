@@ -1,0 +1,8 @@
+{
+    // "shell_cmd" : "./run.sh",
+    "shell_cmd" : "g++ $file_name -o $file_base_name -I /usr/local/opt/lua/include/ /usr/local/lib/liblua.a | exec ${file_path}/${file_base_name}",
+    // "cmd" : ["./$file_base_name"],
+    "selector" : "source.c,source.c++",
+    "shell" : true,
+    "working_dir" : "$file_path",
+}

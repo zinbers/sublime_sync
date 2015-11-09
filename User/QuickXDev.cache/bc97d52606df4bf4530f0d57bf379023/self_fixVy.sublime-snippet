@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[self.fixVy]]></content>
+    <tabTrigger>self.fixVy</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

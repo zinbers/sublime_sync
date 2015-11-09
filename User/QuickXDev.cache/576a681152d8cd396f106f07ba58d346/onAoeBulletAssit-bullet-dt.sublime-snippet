@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onAoeBulletAssit(${1:bullet}, ${2:dt})]]></content>
+    <tabTrigger>onAoeBulletAssit(bullet, dt)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleBoard</description>
+</snippet>

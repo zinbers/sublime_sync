@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[showBuildingArea(${1:build})]]></content>
+    <tabTrigger>showBuildingArea(build)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleBoard</description>
+</snippet>

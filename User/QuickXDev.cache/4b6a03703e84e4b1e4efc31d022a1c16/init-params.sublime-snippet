@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[init(${1:params})]]></content>
+    <tabTrigger>init(params)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>LevelData</description>
+</snippet>

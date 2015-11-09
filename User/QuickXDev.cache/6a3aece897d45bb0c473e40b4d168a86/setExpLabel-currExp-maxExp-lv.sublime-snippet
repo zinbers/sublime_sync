@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setExpLabel(${1:currExp}, ${2:maxExp}, ${3:lv})]]></content>
+    <tabTrigger>setExpLabel(currExp, maxExp, lv)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Swfui</description>
+</snippet>

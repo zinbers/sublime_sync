@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[radianPerSegm]]></content>
+    <tabTrigger>radianPerSegm</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

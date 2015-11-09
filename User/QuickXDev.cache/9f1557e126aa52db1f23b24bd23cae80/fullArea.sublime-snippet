@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[fullArea]]></content>
+    <tabTrigger>fullArea</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[toyReleaseCompleted(${1:toyId})]]></content>
+    <tabTrigger>toyReleaseCompleted(toyId)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleScene</description>
+</snippet>

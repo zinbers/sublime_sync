@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[putToyByTrain(${1:pos}, ${2:selectToyID})]]></content>
+    <tabTrigger>putToyByTrain(pos, selectToyID)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleBoard</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addHeroSkill(${1:skillID}, ${2:pos})]]></content>
+    <tabTrigger>addHeroSkill(skillID, pos)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleBoard</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onUpdateEnd()]]></content>
+    <tabTrigger>onUpdateEnd()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UpdateScene</description>
+</snippet>

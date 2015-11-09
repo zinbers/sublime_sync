@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createItemTitle(${1:data})]]></content>
+    <tabTrigger>createItemTitle(data)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ReplayList</description>
+</snippet>

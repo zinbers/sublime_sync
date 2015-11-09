@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[findHero(${1:h_id})]]></content>
+    <tabTrigger>findHero(h_id)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>totalData</description>
+</snippet>

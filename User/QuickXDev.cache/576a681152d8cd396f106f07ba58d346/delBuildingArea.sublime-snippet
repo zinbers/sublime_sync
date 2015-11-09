@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[delBuildingArea()]]></content>
+    <tabTrigger>delBuildingArea()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleBoard</description>
+</snippet>

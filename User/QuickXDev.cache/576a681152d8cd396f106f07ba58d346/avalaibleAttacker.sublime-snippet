@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[avalaibleAttacker]]></content>
+    <tabTrigger>avalaibleAttacker</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

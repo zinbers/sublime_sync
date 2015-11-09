@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[SWFLayer._instance]]></content>
+    <tabTrigger>SWFLayer._instance</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

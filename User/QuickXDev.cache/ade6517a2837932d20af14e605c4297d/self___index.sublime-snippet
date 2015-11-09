@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[self.__index]]></content>
+    <tabTrigger>self.__index</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

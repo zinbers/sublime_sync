@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[findBuilding(${1:parameter})]]></content>
+    <tabTrigger>findBuilding(parameter)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>totalData</description>
+</snippet>

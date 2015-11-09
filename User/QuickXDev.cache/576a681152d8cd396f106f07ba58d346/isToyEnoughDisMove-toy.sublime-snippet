@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isToyEnoughDisMove(${1:toy})]]></content>
+    <tabTrigger>isToyEnoughDisMove(toy)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleBoard</description>
+</snippet>

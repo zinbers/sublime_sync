@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[updateLevelScore(${1:level}, ${2:score}, ${3:callback})]]></content>
+    <tabTrigger>updateLevelScore(level, score, callback)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UserData</description>
+</snippet>

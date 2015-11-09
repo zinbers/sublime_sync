@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[self.animationSkill]]></content>
+    <tabTrigger>self.animationSkill</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[self.routineTasks]]></content>
+    <tabTrigger>self.routineTasks</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

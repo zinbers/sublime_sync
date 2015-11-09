@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTargetSkillID(${1:skillid})]]></content>
+    <tabTrigger>getTargetSkillID(skillid)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleBoard</description>
+</snippet>

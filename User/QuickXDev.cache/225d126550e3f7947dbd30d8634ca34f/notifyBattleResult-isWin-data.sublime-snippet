@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[notifyBattleResult(${1:isWin}, ${2:data})]]></content>
+    <tabTrigger>notifyBattleResult(isWin, data)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ReplayScene</description>
+</snippet>

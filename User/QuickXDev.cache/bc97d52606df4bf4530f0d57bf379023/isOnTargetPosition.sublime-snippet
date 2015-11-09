@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isOnTargetPosition()]]></content>
+    <tabTrigger>isOnTargetPosition()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Block</description>
+</snippet>

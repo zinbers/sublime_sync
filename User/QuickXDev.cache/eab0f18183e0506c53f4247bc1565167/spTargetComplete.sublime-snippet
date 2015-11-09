@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[spTargetComplete]]></content>
+    <tabTrigger>spTargetComplete</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

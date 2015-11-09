@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[updateX(${1:dt})]]></content>
+    <tabTrigger>updateX(dt)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Block</description>
+</snippet>

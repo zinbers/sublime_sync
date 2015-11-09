@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unzipToDirectory(${1:zipPath}, ${2:dirPath})]]></content>
+    <tabTrigger>unzipToDirectory(zipPath, dirPath)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UpdateService</description>
+</snippet>

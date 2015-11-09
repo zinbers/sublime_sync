@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[startBattle()]]></content>
+    <tabTrigger>startBattle()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleScene</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[backHome()]]></content>
+    <tabTrigger>backHome()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ReplayScene</description>
+</snippet>

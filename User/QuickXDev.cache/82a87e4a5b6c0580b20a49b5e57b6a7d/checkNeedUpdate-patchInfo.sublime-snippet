@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[checkNeedUpdate(${1:patchInfo})]]></content>
+    <tabTrigger>checkNeedUpdate(patchInfo)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UpdateService</description>
+</snippet>

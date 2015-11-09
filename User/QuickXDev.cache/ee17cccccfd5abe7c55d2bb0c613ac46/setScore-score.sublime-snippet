@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setScore(${1:score})]]></content>
+    <tabTrigger>setScore(score)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleScene</description>
+</snippet>

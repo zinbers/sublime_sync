@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createEnemyAvailableResNode()]]></content>
+    <tabTrigger>createEnemyAvailableResNode()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>DectectionUI</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onGamePause()]]></content>
+    <tabTrigger>onGamePause()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GameScene</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cleanDeath()]]></content>
+    <tabTrigger>cleanDeath()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleBoard</description>
+</snippet>

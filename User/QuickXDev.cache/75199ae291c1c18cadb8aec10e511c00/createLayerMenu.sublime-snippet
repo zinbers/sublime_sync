@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createLayerMenu()]]></content>
+    <tabTrigger>createLayerMenu()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TestFBUserScene</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onRetry()]]></content>
+    <tabTrigger>onRetry()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PauseLayer</description>
+</snippet>

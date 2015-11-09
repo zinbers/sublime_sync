@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[pauseUI]]></content>
+    <tabTrigger>pauseUI</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

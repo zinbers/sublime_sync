@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[skillInfoCfg]]></content>
+    <tabTrigger>skillInfoCfg</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

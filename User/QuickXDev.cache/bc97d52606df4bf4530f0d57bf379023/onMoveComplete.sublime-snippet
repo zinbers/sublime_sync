@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onMoveComplete()]]></content>
+    <tabTrigger>onMoveComplete()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Block</description>
+</snippet>

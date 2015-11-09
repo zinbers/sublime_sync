@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onDrag(${1:point})]]></content>
+    <tabTrigger>onDrag(point)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TouchContainer</description>
+</snippet>

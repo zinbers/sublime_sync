@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[hostId]]></content>
+    <tabTrigger>hostId</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

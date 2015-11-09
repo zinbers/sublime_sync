@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[self.boardInitY]]></content>
+    <tabTrigger>self.boardInitY</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

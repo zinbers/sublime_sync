@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onKeyPressed]]></content>
+    <tabTrigger>onKeyPressed</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

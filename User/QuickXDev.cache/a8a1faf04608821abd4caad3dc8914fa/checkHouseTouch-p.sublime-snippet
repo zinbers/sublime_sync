@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[checkHouseTouch(${1:p})]]></content>
+    <tabTrigger>checkHouseTouch(p)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>HouseLayer</description>
+</snippet>

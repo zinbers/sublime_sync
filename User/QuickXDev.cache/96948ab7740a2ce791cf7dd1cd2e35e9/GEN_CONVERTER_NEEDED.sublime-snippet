@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[GEN_CONVERTER_NEEDED]]></content>
+    <tabTrigger>GEN_CONVERTER_NEEDED</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

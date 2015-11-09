@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[self.levelBg]]></content>
+    <tabTrigger>self.levelBg</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

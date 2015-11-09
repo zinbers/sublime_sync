@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[surplusNum]]></content>
+    <tabTrigger>surplusNum</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

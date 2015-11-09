@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[randomList]]></content>
+    <tabTrigger>randomList</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

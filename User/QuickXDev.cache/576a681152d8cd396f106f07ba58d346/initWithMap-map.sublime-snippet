@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithMap(${1:map})]]></content>
+    <tabTrigger>initWithMap(map)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleBoard</description>
+</snippet>

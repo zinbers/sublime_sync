@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[__G__TRACKBACK__(${1:errorMessage})]]></content>
+    <tabTrigger>__G__TRACKBACK__(errorMessage)</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>

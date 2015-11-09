@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onBullet20017Bomb(${1:bullet})]]></content>
+    <tabTrigger>onBullet20017Bomb(bullet)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleBoard</description>
+</snippet>

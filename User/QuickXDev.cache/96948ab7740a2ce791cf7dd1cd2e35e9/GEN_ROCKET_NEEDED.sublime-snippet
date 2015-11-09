@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[GEN_ROCKET_NEEDED]]></content>
+    <tabTrigger>GEN_ROCKET_NEEDED</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

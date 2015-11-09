@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createButton(${1:options}, ${2:callBack})]]></content>
+    <tabTrigger>createButton(options, callBack)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Landing</description>
+</snippet>

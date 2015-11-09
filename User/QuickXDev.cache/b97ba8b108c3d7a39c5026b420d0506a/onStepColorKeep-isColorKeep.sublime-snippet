@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onStepColorKeep(${1:isColorKeep})]]></content>
+    <tabTrigger>onStepColorKeep(isColorKeep)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GameScene</description>
+</snippet>

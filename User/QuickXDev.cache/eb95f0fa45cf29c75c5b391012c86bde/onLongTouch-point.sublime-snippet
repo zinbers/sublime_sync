@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onLongTouch(${1:point})]]></content>
+    <tabTrigger>onLongTouch(point)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TouchContainer</description>
+</snippet>

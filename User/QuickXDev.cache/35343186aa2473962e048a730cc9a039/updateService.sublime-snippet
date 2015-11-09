@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[updateService]]></content>
+    <tabTrigger>updateService</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

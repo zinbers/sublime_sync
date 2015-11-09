@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addTotalTime(${1:addEnergy})]]></content>
+    <tabTrigger>addTotalTime(addEnergy)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleUI</description>
+</snippet>

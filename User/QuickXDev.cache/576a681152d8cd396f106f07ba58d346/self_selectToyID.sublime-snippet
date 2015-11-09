@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[self.selectToyID]]></content>
+    <tabTrigger>self.selectToyID</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getToysData(${1:userInfo})]]></content>
+    <tabTrigger>getToysData(userInfo)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleScene</description>
+</snippet>

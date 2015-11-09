@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[showLoseLayer(${1:data})]]></content>
+    <tabTrigger>showLoseLayer(data)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ReplayScene</description>
+</snippet>

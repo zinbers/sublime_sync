@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[self.maxVy]]></content>
+    <tabTrigger>self.maxVy</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

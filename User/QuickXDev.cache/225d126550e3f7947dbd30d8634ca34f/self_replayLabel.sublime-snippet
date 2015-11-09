@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[self.replayLabel]]></content>
+    <tabTrigger>self.replayLabel</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

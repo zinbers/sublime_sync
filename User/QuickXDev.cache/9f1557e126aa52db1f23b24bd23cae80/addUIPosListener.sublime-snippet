@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addUIPosListener()]]></content>
+    <tabTrigger>addUIPosListener()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>HomeScene</description>
+</snippet>

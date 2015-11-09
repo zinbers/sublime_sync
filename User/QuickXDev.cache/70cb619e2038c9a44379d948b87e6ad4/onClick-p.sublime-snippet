@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onClick(${1:p})]]></content>
+    <tabTrigger>onClick(p)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>MapViewController</description>
+</snippet>

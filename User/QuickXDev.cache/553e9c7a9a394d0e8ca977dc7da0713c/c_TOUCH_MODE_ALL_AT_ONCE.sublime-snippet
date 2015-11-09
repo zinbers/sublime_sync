@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[c.TOUCH_MODE_ALL_AT_ONCE]]></content>
+    <tabTrigger>c.TOUCH_MODE_ALL_AT_ONCE</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

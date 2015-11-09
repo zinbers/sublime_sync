@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getStrokeColor4F()]]></content>
+    <tabTrigger>getStrokeColor4F()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Block</description>
+</snippet>

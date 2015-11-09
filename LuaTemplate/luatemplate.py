@@ -98,6 +98,34 @@ class NewfunctionCommand(sublime_plugin.TextCommand):
 		self.view.insert(edit,self.view.text_point(row,col),code)
 
 
+class RunwithplayerCommand(sublime_plugin.TextCommand):
+	def run(self, edit):
+		settings=sublime.load_settings("LuaTemplate.sublime-settings")
+		quickroot = settings.get("quick_v3_root","")
+		if sublime.platform() == "windows":
+			playerPath = quickroot+"/quick/player/win32/player3.exe"
+		if sublime.platform() == "osx":
+			playerPath = quickroot+"/player3.app/Contents/MacOS/player3"
+
+		file_name = self.view.file_name()
+		workdir=file_name[0:file_name.rfind("src")]
+		srcDirName=workdir+"/src"
+		args=[playerPath]
+		args.append("-workdir")
+		args.append(workdir)
+		args.append("-file")
+		args.append(srcDirName+"/main.lua")
+		global process
+		if process:
+			try:
+				process.terminate()
+			except Exception:
+				pass
+		if sublime.platform()=="osx":
+			process=subprocess.Popen(args)
+		elif sublime.platform()=="windows":
+			process=subprocess.Popen(args)
+
 class RunwithsimulatorCommand(sublime_plugin.TextCommand):
 	def run(self, edit):
 		file_name = self.view.file_name()

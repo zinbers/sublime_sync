@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[stackedEffect(${1:building})]]></content>
+    <tabTrigger>stackedEffect(building)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleBoard</description>
+</snippet>

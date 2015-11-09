@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getHostConfig()]]></content>
+    <tabTrigger>getHostConfig()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GameConfig</description>
+</snippet>

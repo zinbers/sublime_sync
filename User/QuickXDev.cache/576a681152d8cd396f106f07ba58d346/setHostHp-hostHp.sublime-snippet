@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setHostHp(${1:hostHp})]]></content>
+    <tabTrigger>setHostHp(hostHp)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleBoard</description>
+</snippet>

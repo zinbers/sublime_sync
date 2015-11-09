@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[GAME_EVENT_EMPTY_ROW_CHANGE]]></content>
+    <tabTrigger>GAME_EVENT_EMPTY_ROW_CHANGE</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

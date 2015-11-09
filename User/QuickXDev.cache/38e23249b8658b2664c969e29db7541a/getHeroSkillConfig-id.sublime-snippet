@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getHeroSkillConfig(${1:id})]]></content>
+    <tabTrigger>getHeroSkillConfig(id)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GameConfig</description>
+</snippet>

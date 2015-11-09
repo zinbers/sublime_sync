@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[writablePath]]></content>
+    <tabTrigger>writablePath</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

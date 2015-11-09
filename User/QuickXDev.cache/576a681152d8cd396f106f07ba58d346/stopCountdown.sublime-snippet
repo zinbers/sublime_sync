@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[stopCountdown()]]></content>
+    <tabTrigger>stopCountdown()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleBoard</description>
+</snippet>

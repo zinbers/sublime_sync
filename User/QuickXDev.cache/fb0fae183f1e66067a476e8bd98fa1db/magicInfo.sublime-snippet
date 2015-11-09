@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[magicInfo]]></content>
+    <tabTrigger>magicInfo</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[heroCfg]]></content>
+    <tabTrigger>heroCfg</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

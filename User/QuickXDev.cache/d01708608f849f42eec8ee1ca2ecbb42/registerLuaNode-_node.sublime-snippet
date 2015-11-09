@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[registerLuaNode(${1:_node})]]></content>
+    <tabTrigger>registerLuaNode(_node)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SWFLayer</description>
+</snippet>

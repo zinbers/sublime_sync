@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getHomeLevel()]]></content>
+    <tabTrigger>getHomeLevel()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>totalData</description>
+</snippet>

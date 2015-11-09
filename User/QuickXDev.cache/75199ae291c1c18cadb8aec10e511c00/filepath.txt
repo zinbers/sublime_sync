@@ -1,0 +1,1 @@
+/Users/zhangbing/work/popbirds/frameworks/cocos2d-x/plugin-x/samples/HelloPluginsLua/src/TestFBUserScene.lua

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setEffectNode(${1:node})]]></content>
+    <tabTrigger>setEffectNode(node)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleBoard</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[showSoldierLayer(${1:data})]]></content>
+    <tabTrigger>showSoldierLayer(data)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>HomeScene</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[self.timeScheduleHandle]]></content>
+    <tabTrigger>self.timeScheduleHandle</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

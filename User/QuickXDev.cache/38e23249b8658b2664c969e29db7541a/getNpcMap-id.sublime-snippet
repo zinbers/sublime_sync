@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getNpcMap(${1:id})]]></content>
+    <tabTrigger>getNpcMap(id)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GameConfig</description>
+</snippet>

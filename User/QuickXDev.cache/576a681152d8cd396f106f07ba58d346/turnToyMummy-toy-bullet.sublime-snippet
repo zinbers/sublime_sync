@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[turnToyMummy(${1:toy}, ${2:bullet})]]></content>
+    <tabTrigger>turnToyMummy(toy, bullet)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleBoard</description>
+</snippet>

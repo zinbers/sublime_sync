@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeDirectory(${1:path})]]></content>
+    <tabTrigger>removeDirectory(path)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UpdateService</description>
+</snippet>

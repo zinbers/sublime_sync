@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getMapData(${1:enemyInfo})]]></content>
+    <tabTrigger>getMapData(enemyInfo)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleScene</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cancelUpgradeBuilding(${1:site})]]></content>
+    <tabTrigger>cancelUpgradeBuilding(site)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>totalData</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[self.productChipTime]]></content>
+    <tabTrigger>self.productChipTime</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>
