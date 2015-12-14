@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[self.callIsAttacked]]></content>
+    <tabTrigger>self.callIsAttacked</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[showLabel(${1:_tip}, ${2:_npc})]]></content>
+    <tabTrigger>showLabel(_tip, _npc)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TutorialLayer</description>
+</snippet>

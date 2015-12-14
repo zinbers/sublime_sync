@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[self.labelContainer]]></content>
+    <tabTrigger>self.labelContainer</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

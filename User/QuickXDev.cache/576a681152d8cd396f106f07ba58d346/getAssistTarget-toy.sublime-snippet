@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getAssistTarget(${1:toy})]]></content>
+    <tabTrigger>getAssistTarget(toy)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleBoard</description>
+</snippet>

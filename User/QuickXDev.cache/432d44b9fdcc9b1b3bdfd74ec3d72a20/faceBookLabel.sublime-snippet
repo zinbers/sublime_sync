@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[faceBookLabel]]></content>
+    <tabTrigger>faceBookLabel</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

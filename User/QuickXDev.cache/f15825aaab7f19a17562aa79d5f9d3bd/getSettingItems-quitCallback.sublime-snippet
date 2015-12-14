@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getSettingItems(${1:quitCallback})]]></content>
+    <tabTrigger>getSettingItems(quitCallback)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SettingsLayer</description>
+</snippet>

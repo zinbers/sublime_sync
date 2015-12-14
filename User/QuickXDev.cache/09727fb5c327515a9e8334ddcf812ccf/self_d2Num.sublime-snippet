@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[self.d2Num]]></content>
+    <tabTrigger>self.d2Num</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

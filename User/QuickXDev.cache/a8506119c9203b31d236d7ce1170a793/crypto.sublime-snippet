@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[crypto]]></content>
+    <tabTrigger>crypto</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

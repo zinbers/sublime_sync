@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[runMapScene()]]></content>
+    <tabTrigger>runMapScene()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>StartScene</description>
+</snippet>

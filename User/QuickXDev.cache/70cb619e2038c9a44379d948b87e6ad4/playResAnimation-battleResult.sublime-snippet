@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[playResAnimation(${1:battleResult})]]></content>
+    <tabTrigger>playResAnimation(battleResult)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>MapViewController</description>
+</snippet>

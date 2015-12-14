@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[init(${1:attacker}, ${2:target})]]></content>
+    <tabTrigger>init(attacker, target)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Bullet20016</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[showCarriage()]]></content>
+    <tabTrigger>showCarriage()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TutorialLayer</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[endItemSize]]></content>
+    <tabTrigger>endItemSize</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

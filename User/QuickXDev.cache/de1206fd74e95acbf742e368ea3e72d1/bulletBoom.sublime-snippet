@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[bulletBoom()]]></content>
+    <tabTrigger>bulletBoom()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Bullet20012</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[showHPTime()]]></content>
+    <tabTrigger>showHPTime()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>MapSceneUI</description>
+</snippet>

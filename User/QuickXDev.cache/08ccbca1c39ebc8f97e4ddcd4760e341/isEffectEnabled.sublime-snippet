@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isEffectEnabled()]]></content>
+    <tabTrigger>isEffectEnabled()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UserData</description>
+</snippet>

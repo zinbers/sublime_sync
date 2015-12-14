@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[self.readyFired]]></content>
+    <tabTrigger>self.readyFired</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

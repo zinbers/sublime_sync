@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UnlockLevel()]]></content>
+    <tabTrigger>UnlockLevel()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ButtonView</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[genReloadMapButton()]]></content>
+    <tabTrigger>genReloadMapButton()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>MapScene</description>
+</snippet>

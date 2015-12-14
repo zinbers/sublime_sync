@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[waring]]></content>
+    <tabTrigger>waring</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

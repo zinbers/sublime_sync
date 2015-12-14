@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[mailSize]]></content>
+    <tabTrigger>mailSize</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

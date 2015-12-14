@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onPlay()]]></content>
+    <tabTrigger>onPlay()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>StartScene</description>
+</snippet>

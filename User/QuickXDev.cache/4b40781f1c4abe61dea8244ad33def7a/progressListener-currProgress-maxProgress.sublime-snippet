@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[progressListener(${1:currProgress}, ${2:maxProgress})]]></content>
+    <tabTrigger>progressListener(currProgress, maxProgress)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>LoadingLayer</description>
+</snippet>

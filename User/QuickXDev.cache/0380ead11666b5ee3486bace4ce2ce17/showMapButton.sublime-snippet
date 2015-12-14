@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[showMapButton()]]></content>
+    <tabTrigger>showMapButton()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TutorialLayer</description>
+</snippet>

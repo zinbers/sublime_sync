@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[checkGameOver()]]></content>
+    <tabTrigger>checkGameOver()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleBoard</description>
+</snippet>

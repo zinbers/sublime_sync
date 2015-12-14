@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[buyItemWithSilver(${1:itemId}, ${2:silverCoin})]]></content>
+    <tabTrigger>buyItemWithSilver(itemId, silverCoin)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SyncCommand</description>
+</snippet>

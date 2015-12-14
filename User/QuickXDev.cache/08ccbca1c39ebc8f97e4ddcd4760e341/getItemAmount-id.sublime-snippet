@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getItemAmount(${1:id})]]></content>
+    <tabTrigger>getItemAmount(id)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UserData</description>
+</snippet>

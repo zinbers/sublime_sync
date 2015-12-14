@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[playMoneyAnimation()]]></content>
+    <tabTrigger>playMoneyAnimation()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>HomeScene</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[showBoxEvent()]]></content>
+    <tabTrigger>showBoxEvent()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>MapSceneUI</description>
+</snippet>

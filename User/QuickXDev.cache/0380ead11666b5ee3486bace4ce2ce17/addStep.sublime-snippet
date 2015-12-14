@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addStep()]]></content>
+    <tabTrigger>addStep()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TutorialLayer</description>
+</snippet>

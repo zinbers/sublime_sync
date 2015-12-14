@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[self.showLabelState]]></content>
+    <tabTrigger>self.showLabelState</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

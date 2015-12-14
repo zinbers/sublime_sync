@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getUserFarmerNum()]]></content>
+    <tabTrigger>getUserFarmerNum()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>totalData</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[self.onFire]]></content>
+    <tabTrigger>self.onFire</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addSpriteFrames(${1:plistPath}, ${2:imagePath}, ${3:callBack})]]></content>
+    <tabTrigger>addSpriteFrames(plistPath, imagePath, callBack)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>LoadingLayer</description>
+</snippet>

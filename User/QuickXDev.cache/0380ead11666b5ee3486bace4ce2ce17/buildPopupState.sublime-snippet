@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[buildPopupState()]]></content>
+    <tabTrigger>buildPopupState()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TutorialLayer</description>
+</snippet>

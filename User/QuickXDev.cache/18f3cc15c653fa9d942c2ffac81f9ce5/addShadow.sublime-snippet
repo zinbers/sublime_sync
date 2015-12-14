@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addShadow()]]></content>
+    <tabTrigger>addShadow()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Building20011</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[residueTime]]></content>
+    <tabTrigger>residueTime</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

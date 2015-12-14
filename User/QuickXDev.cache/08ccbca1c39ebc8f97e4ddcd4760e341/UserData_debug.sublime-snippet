@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UserData.debug]]></content>
+    <tabTrigger>UserData.debug</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

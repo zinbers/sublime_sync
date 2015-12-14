@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[farmerEnable()]]></content>
+    <tabTrigger>farmerEnable()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TutorialLayer</description>
+</snippet>

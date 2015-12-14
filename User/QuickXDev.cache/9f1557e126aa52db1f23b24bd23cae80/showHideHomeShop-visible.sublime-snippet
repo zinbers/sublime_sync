@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[showHideHomeShop(${1:visible})]]></content>
+    <tabTrigger>showHideHomeShop(visible)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>HomeScene</description>
+</snippet>

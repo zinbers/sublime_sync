@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addSpine(${1:jsonPath}, ${2:atlasPath}, ${3:s}, ${4:callBack})]]></content>
+    <tabTrigger>addSpine(jsonPath, atlasPath, s, callBack)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>LoadingLayer</description>
+</snippet>

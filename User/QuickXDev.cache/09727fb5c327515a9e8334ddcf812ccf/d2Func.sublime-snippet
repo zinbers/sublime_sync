@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[d2Func()]]></content>
+    <tabTrigger>d2Func()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>d2</description>
+</snippet>

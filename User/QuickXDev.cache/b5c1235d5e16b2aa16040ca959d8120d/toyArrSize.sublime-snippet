@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[toyArrSize()]]></content>
+    <tabTrigger>toyArrSize()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Bullet20016</description>
+</snippet>

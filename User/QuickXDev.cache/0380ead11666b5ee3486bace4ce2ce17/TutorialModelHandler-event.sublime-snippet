@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[TutorialModelHandler(${1:event})]]></content>
+    <tabTrigger>TutorialModelHandler(event)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TutorialLayer</description>
+</snippet>

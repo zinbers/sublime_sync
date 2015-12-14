@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[hideShakeBox()]]></content>
+    <tabTrigger>hideShakeBox()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>MapSceneUI</description>
+</snippet>

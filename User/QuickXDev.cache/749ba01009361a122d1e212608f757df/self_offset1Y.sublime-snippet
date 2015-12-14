@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[self.offset1Y]]></content>
+    <tabTrigger>self.offset1Y</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

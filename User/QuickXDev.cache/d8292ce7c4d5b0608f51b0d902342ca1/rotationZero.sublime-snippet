@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[rotationZero()]]></content>
+    <tabTrigger>rotationZero()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Building20002</description>
+</snippet>

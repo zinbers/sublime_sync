@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[hpCallback]]></content>
+    <tabTrigger>hpCallback</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

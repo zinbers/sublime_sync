@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addTouchevent()]]></content>
+    <tabTrigger>addTouchevent()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TutorialLayer</description>
+</snippet>

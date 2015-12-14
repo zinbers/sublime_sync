@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[SyncCommand.createCreateCommand(${1:userId})]]></content>
+    <tabTrigger>SyncCommand.createCreateCommand(userId)</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>

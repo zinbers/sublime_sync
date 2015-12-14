@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[quickBuildState()]]></content>
+    <tabTrigger>quickBuildState()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TutorialLayer</description>
+</snippet>

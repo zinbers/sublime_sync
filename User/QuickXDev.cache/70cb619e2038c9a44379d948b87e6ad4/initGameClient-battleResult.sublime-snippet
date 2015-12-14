@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initGameClient(${1:battleResult})]]></content>
+    <tabTrigger>initGameClient(battleResult)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>MapViewController</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[sizeWH]]></content>
+    <tabTrigger>sizeWH</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

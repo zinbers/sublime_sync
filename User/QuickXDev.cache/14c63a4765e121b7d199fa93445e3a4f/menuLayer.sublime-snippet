@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[menuLayer]]></content>
+    <tabTrigger>menuLayer</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

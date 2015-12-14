@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[changeLabelStr(${1:msg})]]></content>
+    <tabTrigger>changeLabelStr(msg)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TutorialLayer</description>
+</snippet>

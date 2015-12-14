@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[self.upInsideDelay]]></content>
+    <tabTrigger>self.upInsideDelay</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

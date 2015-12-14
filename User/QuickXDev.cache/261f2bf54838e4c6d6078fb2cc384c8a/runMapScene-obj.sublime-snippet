@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[runMapScene(${1:obj})]]></content>
+    <tabTrigger>runMapScene(obj)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>MapScene</description>
+</snippet>

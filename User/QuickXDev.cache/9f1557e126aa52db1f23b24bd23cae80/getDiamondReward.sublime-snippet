@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getDiamondReward()]]></content>
+    <tabTrigger>getDiamondReward()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>HomeScene</description>
+</snippet>

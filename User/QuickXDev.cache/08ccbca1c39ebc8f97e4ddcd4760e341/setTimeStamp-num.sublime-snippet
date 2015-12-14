@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTimeStamp(${1:num})]]></content>
+    <tabTrigger>setTimeStamp(num)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UserData</description>
+</snippet>

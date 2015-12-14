@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setDeBug(${1:num})]]></content>
+    <tabTrigger>setDeBug(num)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UserData</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[startBattle(${1:callback})]]></content>
+    <tabTrigger>startBattle(callback)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleScene</description>
+</snippet>

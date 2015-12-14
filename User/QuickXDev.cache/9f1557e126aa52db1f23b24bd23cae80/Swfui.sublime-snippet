@@ -1,6 +1,6 @@
 <snippet>
-    <content><![CDATA[Swfui]]></content>
-    <tabTrigger>Swfui</tabTrigger>
+    <content><![CDATA[swfui]]></content>
+    <tabTrigger>swfui</tabTrigger>
     <scope>source.lua</scope>
     <description>.</description>
 </snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initGameClient(${1:wid}, ${2:tid})]]></content>
+    <tabTrigger>initGameClient(wid, tid)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>HomeScene</description>
+</snippet>

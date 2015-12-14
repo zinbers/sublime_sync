@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[self.isTutorial]]></content>
+    <tabTrigger>self.isTutorial</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

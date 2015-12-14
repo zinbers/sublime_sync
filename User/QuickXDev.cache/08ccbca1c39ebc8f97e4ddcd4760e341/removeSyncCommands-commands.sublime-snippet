@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeSyncCommands(${1:commands})]]></content>
+    <tabTrigger>removeSyncCommands(commands)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UserData</description>
+</snippet>

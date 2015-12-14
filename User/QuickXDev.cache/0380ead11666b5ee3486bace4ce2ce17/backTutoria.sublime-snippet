@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[backTutoria()]]></content>
+    <tabTrigger>backTutoria()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TutorialLayer</description>
+</snippet>

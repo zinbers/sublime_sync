@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[showLabelContainer()]]></content>
+    <tabTrigger>showLabelContainer()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TutorialLayer</description>
+</snippet>

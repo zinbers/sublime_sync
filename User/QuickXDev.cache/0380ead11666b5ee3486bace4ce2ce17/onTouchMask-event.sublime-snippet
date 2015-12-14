@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onTouchMask(${1:event})]]></content>
+    <tabTrigger>onTouchMask(event)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TutorialLayer</description>
+</snippet>

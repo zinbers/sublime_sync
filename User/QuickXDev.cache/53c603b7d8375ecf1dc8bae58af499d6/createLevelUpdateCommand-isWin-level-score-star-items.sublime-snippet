@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createLevelUpdateCommand(${1:isWin}, ${2:level}, ${3:score}, ${4:star}, ${5:items})]]></content>
+    <tabTrigger>createLevelUpdateCommand(isWin, level, score, star, items)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SyncCommand</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onAttack(${1:dt})]]></content>
+    <tabTrigger>onAttack(dt)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Building20012</description>
+</snippet>

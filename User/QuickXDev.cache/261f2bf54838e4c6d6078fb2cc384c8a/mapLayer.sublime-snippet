@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[mapLayer]]></content>
+    <tabTrigger>mapLayer</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>
