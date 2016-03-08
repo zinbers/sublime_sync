@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[MAX_LIFE]]></content>
+    <tabTrigger>MAX_LIFE</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

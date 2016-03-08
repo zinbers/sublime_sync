@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[PropResUtils.getPropNameById(${1:id})]]></content>
+    <tabTrigger>PropResUtils.getPropNameById(id)</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>

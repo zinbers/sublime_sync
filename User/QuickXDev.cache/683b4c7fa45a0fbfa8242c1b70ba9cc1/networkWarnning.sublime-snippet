@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[networkWarnning]]></content>
+    <tabTrigger>networkWarnning</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

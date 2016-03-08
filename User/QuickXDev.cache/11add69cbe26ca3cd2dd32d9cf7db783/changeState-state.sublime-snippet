@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[changeState(${1:state})]]></content>
+    <tabTrigger>changeState(state)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>FBLoginUI</description>
+</snippet>

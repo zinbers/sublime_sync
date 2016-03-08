@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[updateHttpConfig()]]></content>
+    <tabTrigger>updateHttpConfig()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>MapBox</description>
+</snippet>

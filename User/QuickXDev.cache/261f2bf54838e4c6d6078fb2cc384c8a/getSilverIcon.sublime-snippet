@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getSilverIcon()]]></content>
+    <tabTrigger>getSilverIcon()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>MapScene</description>
+</snippet>

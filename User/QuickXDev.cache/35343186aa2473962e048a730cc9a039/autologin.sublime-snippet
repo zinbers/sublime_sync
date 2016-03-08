@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[autologin()]]></content>
+    <tabTrigger>autologin()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UpdateScene</description>
+</snippet>

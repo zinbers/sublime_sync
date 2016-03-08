@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[loadSpine(${1:spineFiletable})]]></content>
+    <tabTrigger>loadSpine(spineFiletable)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>LoadingScene</description>
+</snippet>

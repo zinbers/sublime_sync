@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getLevelPos(${1:level})]]></content>
+    <tabTrigger>getLevelPos(level)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>MapScene</description>
+</snippet>

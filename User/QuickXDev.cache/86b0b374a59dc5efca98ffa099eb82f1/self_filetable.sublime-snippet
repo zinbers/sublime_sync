@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[self.filetable]]></content>
+    <tabTrigger>self.filetable</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

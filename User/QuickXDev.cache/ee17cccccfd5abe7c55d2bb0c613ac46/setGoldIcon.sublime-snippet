@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setGoldIcon()]]></content>
+    <tabTrigger>setGoldIcon()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BattleScene</description>
+</snippet>

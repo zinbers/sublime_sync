@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[loginFailure(${1:code}, ${2:message})]]></content>
+    <tabTrigger>loginFailure(code, message)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>MyApp</description>
+</snippet>

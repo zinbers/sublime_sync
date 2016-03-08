@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[closeNormal]]></content>
+    <tabTrigger>closeNormal</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

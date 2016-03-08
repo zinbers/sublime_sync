@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[rankSpawn]]></content>
+    <tabTrigger>rankSpawn</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

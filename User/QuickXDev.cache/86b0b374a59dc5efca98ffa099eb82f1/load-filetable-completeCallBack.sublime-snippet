@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[load(${1:filetable}, ${2:completeCallBack})]]></content>
+    <tabTrigger>load(filetable, completeCallBack)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>LoadingScene</description>
+</snippet>

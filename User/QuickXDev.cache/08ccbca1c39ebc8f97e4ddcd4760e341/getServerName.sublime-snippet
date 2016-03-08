@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getServerName()]]></content>
+    <tabTrigger>getServerName()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UserData</description>
+</snippet>

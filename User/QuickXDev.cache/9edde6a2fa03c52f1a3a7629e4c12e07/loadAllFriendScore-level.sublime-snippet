@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[loadAllFriendScore(${1:level})]]></content>
+    <tabTrigger>loadAllFriendScore(level)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>LeaderboardPanel</description>
+</snippet>

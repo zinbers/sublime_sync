@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getFriendsData()]]></content>
+    <tabTrigger>getFriendsData()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UserData</description>
+</snippet>

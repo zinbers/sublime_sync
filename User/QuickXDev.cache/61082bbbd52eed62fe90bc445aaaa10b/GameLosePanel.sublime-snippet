@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[GameLosePanel]]></content>
+    <tabTrigger>GameLosePanel</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

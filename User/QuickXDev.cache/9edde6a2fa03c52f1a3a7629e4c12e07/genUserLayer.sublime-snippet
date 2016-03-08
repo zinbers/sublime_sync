@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[genUserLayer()]]></content>
+    <tabTrigger>genUserLayer()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>LeaderboardPanel</description>
+</snippet>

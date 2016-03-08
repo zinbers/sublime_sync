@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setCallback(${1:ref})]]></content>
+    <tabTrigger>setCallback(ref)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ItemShop</description>
+</snippet>

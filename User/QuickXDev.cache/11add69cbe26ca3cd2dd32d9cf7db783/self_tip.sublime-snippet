@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[self.tip]]></content>
+    <tabTrigger>self.tip</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

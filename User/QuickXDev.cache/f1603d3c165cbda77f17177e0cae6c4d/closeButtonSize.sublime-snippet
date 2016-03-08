@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[closeButtonSize]]></content>
+    <tabTrigger>closeButtonSize</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

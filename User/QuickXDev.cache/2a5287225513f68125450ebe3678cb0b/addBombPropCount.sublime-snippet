@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addBombPropCount]]></content>
+    <tabTrigger>addBombPropCount</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onGameStart(${1:event})]]></content>
+    <tabTrigger>onGameStart(event)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>MapScene</description>
+</snippet>

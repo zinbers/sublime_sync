@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[loginUI]]></content>
+    <tabTrigger>loginUI</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

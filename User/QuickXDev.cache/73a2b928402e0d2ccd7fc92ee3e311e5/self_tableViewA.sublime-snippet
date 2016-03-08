@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[self.tableViewA]]></content>
+    <tabTrigger>self.tableViewA</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

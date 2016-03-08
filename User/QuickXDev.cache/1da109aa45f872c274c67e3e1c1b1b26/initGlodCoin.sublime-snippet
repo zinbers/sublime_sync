@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initGlodCoin()]]></content>
+    <tabTrigger>initGlodCoin()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BottomLayer</description>
+</snippet>

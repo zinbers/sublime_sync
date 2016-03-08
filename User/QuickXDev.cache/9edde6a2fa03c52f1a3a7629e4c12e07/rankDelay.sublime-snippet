@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[rankDelay]]></content>
+    <tabTrigger>rankDelay</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[self.facebookLabel]]></content>
+    <tabTrigger>self.facebookLabel</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

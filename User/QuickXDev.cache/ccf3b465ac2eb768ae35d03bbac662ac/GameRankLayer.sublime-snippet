@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[GameRankLayer]]></content>
+    <tabTrigger>GameRankLayer</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

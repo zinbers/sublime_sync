@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[retryItem]]></content>
+    <tabTrigger>retryItem</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

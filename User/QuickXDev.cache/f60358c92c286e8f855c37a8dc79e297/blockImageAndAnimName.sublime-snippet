@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[blockImageAndAnimName]]></content>
+    <tabTrigger>blockImageAndAnimName</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

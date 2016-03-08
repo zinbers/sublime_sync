@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"AutoFileName",
 		"Codecs33",
 		"ColorPicker",
@@ -12,10 +13,15 @@
 		"ConvertToUTF8",
 		"DashDoc",
 		"DocBlockr",
+		"Find++",
 		"FormatLua",
+		"Function Name Display",
+		"JSON-Template",
+		"JsonTree",
 		"Markdown Extended",
 		"Package Control",
 		"PlainTasks",
+		"Pretty JSON",
 		"QuickXDev",
 		"SublimeLinter",
 		"SublimeLinter-annotations",

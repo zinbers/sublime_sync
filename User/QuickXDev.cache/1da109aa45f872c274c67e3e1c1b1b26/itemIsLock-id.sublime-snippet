@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[itemIsLock(${1:id})]]></content>
+    <tabTrigger>itemIsLock(id)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BottomLayer</description>
+</snippet>

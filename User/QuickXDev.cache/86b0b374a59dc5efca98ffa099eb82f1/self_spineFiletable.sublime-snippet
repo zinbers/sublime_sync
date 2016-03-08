@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[self.spineFiletable]]></content>
+    <tabTrigger>self.spineFiletable</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

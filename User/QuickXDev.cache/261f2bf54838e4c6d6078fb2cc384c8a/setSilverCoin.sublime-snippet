@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setSilverCoin()]]></content>
+    <tabTrigger>setSilverCoin()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>MapScene</description>
+</snippet>

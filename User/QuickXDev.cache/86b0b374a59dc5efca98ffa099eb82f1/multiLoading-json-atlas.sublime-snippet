@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[multiLoading(${1:json}, ${2:atlas})]]></content>
+    <tabTrigger>multiLoading(json, atlas)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>LoadingScene</description>
+</snippet>

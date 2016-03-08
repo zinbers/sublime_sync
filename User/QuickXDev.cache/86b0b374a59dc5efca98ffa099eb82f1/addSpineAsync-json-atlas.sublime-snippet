@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addSpineAsync(${1:json}, ${2:atlas})]]></content>
+    <tabTrigger>addSpineAsync(json, atlas)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>LoadingScene</description>
+</snippet>

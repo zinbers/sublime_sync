@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getPropRewardLevel()]]></content>
+    <tabTrigger>getPropRewardLevel()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UserData</description>
+</snippet>

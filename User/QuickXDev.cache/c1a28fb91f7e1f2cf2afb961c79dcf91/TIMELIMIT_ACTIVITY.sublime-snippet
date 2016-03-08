@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[TIMELIMIT_ACTIVITY]]></content>
+    <tabTrigger>TIMELIMIT_ACTIVITY</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[friendLabel]]></content>
+    <tabTrigger>friendLabel</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

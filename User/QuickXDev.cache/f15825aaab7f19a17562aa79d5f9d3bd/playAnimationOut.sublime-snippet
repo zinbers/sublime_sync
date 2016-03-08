@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[playAnimationOut()]]></content>
+    <tabTrigger>playAnimationOut()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SettingsLayer</description>
+</snippet>

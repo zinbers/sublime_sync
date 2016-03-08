@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addImageAsync(${1:imagePath})]]></content>
+    <tabTrigger>addImageAsync(imagePath)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>LoadingScene</description>
+</snippet>

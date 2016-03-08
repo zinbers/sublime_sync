@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[reloadList(${1:level})]]></content>
+    <tabTrigger>reloadList(level)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>LeaderboardPanel</description>
+</snippet>

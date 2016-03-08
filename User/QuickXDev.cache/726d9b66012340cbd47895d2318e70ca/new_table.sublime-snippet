@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[new_table]]></content>
+    <tabTrigger>new_table</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>
