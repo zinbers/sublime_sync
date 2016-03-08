@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[updateFronzeState(${1:dt})]]></content>
-    <tabTrigger>updateFronzeState(dt)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Building20007</description>
-</snippet>

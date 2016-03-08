@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[NoLifeDialog]]></content>
-    <tabTrigger>NoLifeDialog</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.productHeroTotalTime]]></content>
-    <tabTrigger>self.productHeroTotalTime</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[findAllBlocks()]]></content>
-    <tabTrigger>findAllBlocks()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>GameBoard</description>
-</snippet>

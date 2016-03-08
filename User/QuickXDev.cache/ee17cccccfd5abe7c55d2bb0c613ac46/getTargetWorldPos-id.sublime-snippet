@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getTargetWorldPos(${1:id})]]></content>
-    <tabTrigger>getTargetWorldPos(id)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleScene</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[updateBullets(${1:dt})]]></content>
-    <tabTrigger>updateBullets(dt)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleBoard</description>
-</snippet>

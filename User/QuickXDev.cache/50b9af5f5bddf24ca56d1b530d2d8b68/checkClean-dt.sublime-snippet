@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[checkClean(${1:dt})]]></content>
-    <tabTrigger>checkClean(dt)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Toy</description>
-</snippet>

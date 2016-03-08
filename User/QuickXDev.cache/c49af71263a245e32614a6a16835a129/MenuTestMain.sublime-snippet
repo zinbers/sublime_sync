@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[MenuTestMain()]]></content>
-    <tabTrigger>MenuTestMain()</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

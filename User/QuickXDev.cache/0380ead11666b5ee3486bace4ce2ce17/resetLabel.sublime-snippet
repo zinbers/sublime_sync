@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[resetLabel()]]></content>
-    <tabTrigger>resetLabel()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>TutorialLayer</description>
-</snippet>

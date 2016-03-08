@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getAttackTargetByState(${1:attacker}, ${2:toyObjects}, ${3:minDisIndex})]]></content>
-    <tabTrigger>getAttackTargetByState(attacker, toyObjects, minDisIndex)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleBoard</description>
-</snippet>

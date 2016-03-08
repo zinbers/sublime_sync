@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[initAsset()]]></content>
-    <tabTrigger>initAsset()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Building20001</description>
-</snippet>

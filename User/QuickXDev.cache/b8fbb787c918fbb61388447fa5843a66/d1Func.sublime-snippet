@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[d1Func()]]></content>
-    <tabTrigger>d1Func()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>d1</description>
-</snippet>

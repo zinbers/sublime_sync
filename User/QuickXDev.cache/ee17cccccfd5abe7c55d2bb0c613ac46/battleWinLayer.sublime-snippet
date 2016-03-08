@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[battleWinLayer]]></content>
-    <tabTrigger>battleWinLayer</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.battleResultData]]></content>
-    <tabTrigger>self.battleResultData</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

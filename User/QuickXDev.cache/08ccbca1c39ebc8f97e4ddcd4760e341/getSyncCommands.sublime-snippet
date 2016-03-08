@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getSyncCommands()]]></content>
-    <tabTrigger>getSyncCommands()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>UserData</description>
-</snippet>

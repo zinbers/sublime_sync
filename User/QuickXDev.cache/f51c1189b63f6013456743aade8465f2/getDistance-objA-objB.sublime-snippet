@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getDistance(${1:objA}, ${2:objB})]]></content>
-    <tabTrigger>getDistance(objA, objB)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleBoard</description>
-</snippet>

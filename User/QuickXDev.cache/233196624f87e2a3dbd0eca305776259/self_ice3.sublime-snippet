@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.ice3]]></content>
-    <tabTrigger>self.ice3</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

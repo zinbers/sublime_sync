@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[onIceBulletBoom(${1:building}, ${2:target})]]></content>
-    <tabTrigger>onIceBulletBoom(building, target)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleScene</description>
-</snippet>

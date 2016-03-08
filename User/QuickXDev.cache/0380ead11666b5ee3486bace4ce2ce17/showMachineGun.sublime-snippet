@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[showMachineGun()]]></content>
-    <tabTrigger>showMachineGun()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>TutorialLayer</description>
-</snippet>

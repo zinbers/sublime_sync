@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[sz_T2S(${1:_t})]]></content>
-    <tabTrigger>sz_T2S(_t)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

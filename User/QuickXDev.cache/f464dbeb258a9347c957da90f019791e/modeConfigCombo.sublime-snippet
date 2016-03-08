@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[modeConfigCombo]]></content>
-    <tabTrigger>modeConfigCombo</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

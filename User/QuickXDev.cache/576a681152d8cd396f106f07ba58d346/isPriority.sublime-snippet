@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isPriority]]></content>
-    <tabTrigger>isPriority</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

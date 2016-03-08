@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[display.width]]></content>
-    <tabTrigger>display.width</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

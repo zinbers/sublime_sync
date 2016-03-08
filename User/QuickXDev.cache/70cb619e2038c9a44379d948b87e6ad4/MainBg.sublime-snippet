@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[MainBg]]></content>
-    <tabTrigger>MainBg</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

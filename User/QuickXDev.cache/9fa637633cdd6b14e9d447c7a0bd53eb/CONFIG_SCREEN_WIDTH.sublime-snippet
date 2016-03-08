@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[CONFIG_SCREEN_WIDTH]]></content>
-    <tabTrigger>CONFIG_SCREEN_WIDTH</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

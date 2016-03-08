@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getBlockForce(${1:block})]]></content>
-    <tabTrigger>getBlockForce(block)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>GameBoard</description>
-</snippet>

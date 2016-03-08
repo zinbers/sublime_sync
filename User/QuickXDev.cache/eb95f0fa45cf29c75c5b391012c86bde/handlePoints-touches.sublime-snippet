@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[handlePoints(${1:touches})]]></content>
-    <tabTrigger>handlePoints(touches)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>TouchHandler</description>
-</snippet>

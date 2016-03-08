@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[showLoseLayer(${1:...})]]></content>
-    <tabTrigger>showLoseLayer(...)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleScene</description>
-</snippet>

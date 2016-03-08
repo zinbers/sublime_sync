@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getBoxCoin(${1:boxObj})]]></content>
-    <tabTrigger>getBoxCoin(boxObj)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>MapBox</description>
-</snippet>

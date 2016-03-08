@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.toyTrainExist]]></content>
-    <tabTrigger>self.toyTrainExist</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[selectToy(${1:toyId})]]></content>
-    <tabTrigger>selectToy(toyId)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleUI</description>
-</snippet>

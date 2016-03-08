@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[jsonFile]]></content>
-    <tabTrigger>jsonFile</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

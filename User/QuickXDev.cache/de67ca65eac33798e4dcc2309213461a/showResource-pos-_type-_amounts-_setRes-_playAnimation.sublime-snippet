@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[showResource(${1:pos}, ${2:_type}, ${3:_amounts}, ${4:_setRes}, ${5:_playAnimation})]]></content>
-    <tabTrigger>showResource(pos, _type, _amounts, _setRes, _playAnimation)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>MapBox</description>
-</snippet>

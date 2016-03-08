@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[m_alignedH]]></content>
-    <tabTrigger>m_alignedH</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

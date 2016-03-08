@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[runGameOver()]]></content>
-    <tabTrigger>runGameOver()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleScene</description>
-</snippet>

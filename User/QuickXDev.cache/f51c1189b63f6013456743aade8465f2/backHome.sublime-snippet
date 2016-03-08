@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[backHome()]]></content>
-    <tabTrigger>backHome()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleBoard</description>
-</snippet>

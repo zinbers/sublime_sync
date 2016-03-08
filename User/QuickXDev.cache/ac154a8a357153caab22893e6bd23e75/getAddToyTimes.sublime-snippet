@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getAddToyTimes()]]></content>
-    <tabTrigger>getAddToyTimes()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>totalData</description>
-</snippet>

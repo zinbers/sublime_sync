@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[showHideHomeUILayer(${1:visible})]]></content>
-    <tabTrigger>showHideHomeUILayer(visible)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>HomeScene</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[GAME_EVENT_STEP_EMPTY]]></content>
-    <tabTrigger>GAME_EVENT_STEP_EMPTY</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

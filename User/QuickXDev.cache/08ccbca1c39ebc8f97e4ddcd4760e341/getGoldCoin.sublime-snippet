@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getGoldCoin()]]></content>
-    <tabTrigger>getGoldCoin()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>UserData</description>
-</snippet>

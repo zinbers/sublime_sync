@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.spineLength]]></content>
-    <tabTrigger>self.spineLength</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

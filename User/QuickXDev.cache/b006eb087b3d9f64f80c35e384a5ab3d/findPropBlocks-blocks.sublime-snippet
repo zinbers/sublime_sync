@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[findPropBlocks(${1:blocks})]]></content>
-    <tabTrigger>findPropBlocks(blocks)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>GameBoard</description>
-</snippet>

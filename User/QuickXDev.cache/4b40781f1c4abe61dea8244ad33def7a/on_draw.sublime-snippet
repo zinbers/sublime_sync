@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[on_draw()]]></content>
-    <tabTrigger>on_draw()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>LoadingLayer</description>
-</snippet>

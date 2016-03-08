@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[updateWalkDelay()]]></content>
-    <tabTrigger>updateWalkDelay()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Toy</description>
-</snippet>

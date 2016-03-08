@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[starScaleOut]]></content>
-    <tabTrigger>starScaleOut</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

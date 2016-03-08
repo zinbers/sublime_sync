@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.imageLength]]></content>
-    <tabTrigger>self.imageLength</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

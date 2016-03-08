@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[glodCoinAnimation()]]></content>
-    <tabTrigger>glodCoinAnimation()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>MapScene</description>
-</snippet>

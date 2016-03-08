@@ -1,1 +1,0 @@
-/Users/zhangbing/work/popbirds/docs/originResource/map/map_1.lua

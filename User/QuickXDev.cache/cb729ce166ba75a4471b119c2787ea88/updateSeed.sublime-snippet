@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[updateSeed()]]></content>
-    <tabTrigger>updateSeed()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>RandomList</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[REMOTE_VERSION]]></content>
-    <tabTrigger>REMOTE_VERSION</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

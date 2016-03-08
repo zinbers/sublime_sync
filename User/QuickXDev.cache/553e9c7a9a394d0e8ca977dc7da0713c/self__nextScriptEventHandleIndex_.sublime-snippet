@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self._nextScriptEventHandleIndex_]]></content>
-    <tabTrigger>self._nextScriptEventHandleIndex_</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

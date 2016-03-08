@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getBulletGenPosition()]]></content>
-    <tabTrigger>getBulletGenPosition()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Building20017</description>
-</snippet>

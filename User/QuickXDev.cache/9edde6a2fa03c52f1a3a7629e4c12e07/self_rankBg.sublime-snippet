@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.rankBg]]></content>
-    <tabTrigger>self.rankBg</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

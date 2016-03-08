@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.Areabuild]]></content>
-    <tabTrigger>self.Areabuild</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

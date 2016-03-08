@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setHeroSkills(${1:...})]]></content>
-    <tabTrigger>setHeroSkills(...)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleUI</description>
-</snippet>

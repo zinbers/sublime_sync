@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isPowerEnoughForSkill(${1:skillId})]]></content>
-    <tabTrigger>isPowerEnoughForSkill(skillId)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleUI</description>
-</snippet>

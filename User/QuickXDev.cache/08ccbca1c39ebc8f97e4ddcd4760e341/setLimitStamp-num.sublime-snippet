@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setLimitStamp(${1:num})]]></content>
-    <tabTrigger>setLimitStamp(num)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>UserData</description>
-</snippet>

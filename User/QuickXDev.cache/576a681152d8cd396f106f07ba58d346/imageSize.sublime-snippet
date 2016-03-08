@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[imageSize]]></content>
-    <tabTrigger>imageSize</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

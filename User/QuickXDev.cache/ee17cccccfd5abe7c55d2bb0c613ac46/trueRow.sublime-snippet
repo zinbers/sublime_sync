@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[trueRow]]></content>
-    <tabTrigger>trueRow</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

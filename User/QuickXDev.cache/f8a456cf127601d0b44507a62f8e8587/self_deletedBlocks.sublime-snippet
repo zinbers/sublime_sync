@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.deletedBlocks]]></content>
-    <tabTrigger>self.deletedBlocks</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

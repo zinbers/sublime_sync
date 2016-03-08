@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[homeLevelData]]></content>
-    <tabTrigger>homeLevelData</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

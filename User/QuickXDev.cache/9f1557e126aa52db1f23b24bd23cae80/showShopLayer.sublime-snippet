@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[showShopLayer()]]></content>
-    <tabTrigger>showShopLayer()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>HomeScene</description>
-</snippet>

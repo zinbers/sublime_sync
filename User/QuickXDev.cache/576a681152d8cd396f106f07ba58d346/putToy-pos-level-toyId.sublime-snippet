@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[putToy(${1:pos}, ${2:level}, ${3:toyId})]]></content>
-    <tabTrigger>putToy(pos, level, toyId)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleBoard</description>
-</snippet>

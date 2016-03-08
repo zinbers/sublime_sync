@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[damage]]></content>
-    <tabTrigger>damage</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

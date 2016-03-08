@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[onBackPosition(${1:len})]]></content>
-    <tabTrigger>onBackPosition(len)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Toy</description>
-</snippet>

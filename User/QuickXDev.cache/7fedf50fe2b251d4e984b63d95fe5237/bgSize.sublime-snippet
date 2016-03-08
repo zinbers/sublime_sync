@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[bgSize]]></content>
-    <tabTrigger>bgSize</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

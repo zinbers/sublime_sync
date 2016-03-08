@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[createTouchLable(${1:params})]]></content>
-    <tabTrigger>createTouchLable(params)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>MapScene</description>
-</snippet>

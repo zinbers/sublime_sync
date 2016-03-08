@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[onTouch(${1:event})]]></content>
-    <tabTrigger>onTouch(event)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>GameBoard</description>
-</snippet>

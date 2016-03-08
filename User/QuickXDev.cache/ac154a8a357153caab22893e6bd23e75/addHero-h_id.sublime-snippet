@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addHero(${1:h_id})]]></content>
-    <tabTrigger>addHero(h_id)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>totalData</description>
-</snippet>

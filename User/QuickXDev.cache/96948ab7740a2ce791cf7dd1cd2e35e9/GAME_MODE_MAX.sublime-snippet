@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[GAME_MODE_MAX]]></content>
-    <tabTrigger>GAME_MODE_MAX</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

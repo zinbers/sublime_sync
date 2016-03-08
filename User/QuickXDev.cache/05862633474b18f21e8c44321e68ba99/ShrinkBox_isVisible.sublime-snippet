@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ShrinkBox.isVisible]]></content>
-    <tabTrigger>ShrinkBox.isVisible</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

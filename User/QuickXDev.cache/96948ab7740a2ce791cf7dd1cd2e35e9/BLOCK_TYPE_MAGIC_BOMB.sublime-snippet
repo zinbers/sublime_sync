@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[BLOCK_TYPE_MAGIC_BOMB]]></content>
-    <tabTrigger>BLOCK_TYPE_MAGIC_BOMB</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

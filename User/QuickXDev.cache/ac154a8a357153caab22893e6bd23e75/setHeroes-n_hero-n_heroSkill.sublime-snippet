@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setHeroes(${1:n_hero}, ${2:n_heroSkill})]]></content>
-    <tabTrigger>setHeroes(n_hero, n_heroSkill)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>totalData</description>
-</snippet>

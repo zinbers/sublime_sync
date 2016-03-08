@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[enableLuaEvent(${1:enable})]]></content>
-    <tabTrigger>enableLuaEvent(enable)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>SWFLayer</description>
-</snippet>

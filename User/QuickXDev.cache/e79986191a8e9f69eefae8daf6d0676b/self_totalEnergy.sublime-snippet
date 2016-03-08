@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.totalEnergy]]></content>
-    <tabTrigger>self.totalEnergy</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[utils.getSpriteNameById(${1:id})]]></content>
-    <tabTrigger>utils.getSpriteNameById(id)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

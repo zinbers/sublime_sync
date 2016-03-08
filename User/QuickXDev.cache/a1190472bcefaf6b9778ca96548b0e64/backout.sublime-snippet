@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[backout]]></content>
-    <tabTrigger>backout</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

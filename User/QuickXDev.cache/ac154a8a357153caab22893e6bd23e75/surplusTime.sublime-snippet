@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[surplusTime]]></content>
-    <tabTrigger>surplusTime</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

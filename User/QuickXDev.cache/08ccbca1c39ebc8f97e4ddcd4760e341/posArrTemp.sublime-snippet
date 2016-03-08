@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[posArrTemp]]></content>
-    <tabTrigger>posArrTemp</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

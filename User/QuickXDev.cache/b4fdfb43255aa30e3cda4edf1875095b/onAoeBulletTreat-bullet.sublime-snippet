@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[onAoeBulletTreat(${1:bullet})]]></content>
-    <tabTrigger>onAoeBulletTreat(bullet)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleScene</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setNpc(${1:_npc})]]></content>
-    <tabTrigger>setNpc(_npc)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>TutorialLayer</description>
-</snippet>

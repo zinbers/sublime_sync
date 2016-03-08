@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setCallFunc(${1:callFunc})]]></content>
-    <tabTrigger>setCallFunc(callFunc)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Toy</description>
-</snippet>

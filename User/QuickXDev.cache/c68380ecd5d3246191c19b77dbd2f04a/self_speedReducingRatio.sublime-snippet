@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.speedReducingRatio]]></content>
-    <tabTrigger>self.speedReducingRatio</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

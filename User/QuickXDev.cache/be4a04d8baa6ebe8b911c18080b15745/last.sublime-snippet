@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[last]]></content>
-    <tabTrigger>last</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

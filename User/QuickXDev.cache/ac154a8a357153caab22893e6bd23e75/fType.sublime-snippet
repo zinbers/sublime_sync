@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[fType]]></content>
-    <tabTrigger>fType</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

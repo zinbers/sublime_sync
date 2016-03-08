@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[limitNum]]></content>
-    <tabTrigger>limitNum</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

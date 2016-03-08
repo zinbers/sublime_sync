@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[readFile(${1:path})]]></content>
-    <tabTrigger>readFile(path)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>UpdateService</description>
-</snippet>

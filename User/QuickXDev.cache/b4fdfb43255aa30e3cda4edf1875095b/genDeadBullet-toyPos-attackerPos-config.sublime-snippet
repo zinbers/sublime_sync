@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[genDeadBullet(${1:toyPos}, ${2:attackerPos}, ${3:config})]]></content>
-    <tabTrigger>genDeadBullet(toyPos, attackerPos, config)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleScene</description>
-</snippet>

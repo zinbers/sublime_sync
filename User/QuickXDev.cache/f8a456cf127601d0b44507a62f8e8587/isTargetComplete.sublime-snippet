@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isTargetComplete()]]></content>
-    <tabTrigger>isTargetComplete()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>GameBoard</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[limitWidth]]></content>
-    <tabTrigger>limitWidth</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setBirdCount(${1:index}, ${2:a}, ${3:b})]]></content>
-    <tabTrigger>setBirdCount(index, a, b)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>GameScene</description>
-</snippet>

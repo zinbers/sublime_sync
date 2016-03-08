@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.fullRightUpper]]></content>
-    <tabTrigger>self.fullRightUpper</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[StartScene]]></content>
-    <tabTrigger>StartScene</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

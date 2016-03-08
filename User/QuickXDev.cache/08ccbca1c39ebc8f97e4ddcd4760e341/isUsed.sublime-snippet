@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isUsed]]></content>
-    <tabTrigger>isUsed</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

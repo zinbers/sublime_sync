@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.settingItem]]></content>
-    <tabTrigger>self.settingItem</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

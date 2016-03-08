@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[Facebook.getMineInfo()]]></content>
-    <tabTrigger>Facebook.getMineInfo()</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

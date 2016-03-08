@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[FacebookData]]></content>
-    <tabTrigger>FacebookData</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

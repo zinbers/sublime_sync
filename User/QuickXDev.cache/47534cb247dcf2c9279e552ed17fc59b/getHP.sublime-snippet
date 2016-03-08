@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getHP()]]></content>
-    <tabTrigger>getHP()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Building</description>
-</snippet>

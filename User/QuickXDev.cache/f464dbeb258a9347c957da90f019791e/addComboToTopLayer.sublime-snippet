@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addComboToTopLayer()]]></content>
-    <tabTrigger>addComboToTopLayer()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>TopLayer</description>
-</snippet>

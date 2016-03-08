@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.labelSec]]></content>
-    <tabTrigger>self.labelSec</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[dataConfig]]></content>
-    <tabTrigger>dataConfig</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

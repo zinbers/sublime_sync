@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[GAME_EVENT_FAIL]]></content>
-    <tabTrigger>GAME_EVENT_FAIL</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

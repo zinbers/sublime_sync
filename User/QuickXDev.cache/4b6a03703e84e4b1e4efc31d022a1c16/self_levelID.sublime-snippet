@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.levelID]]></content>
-    <tabTrigger>self.levelID</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

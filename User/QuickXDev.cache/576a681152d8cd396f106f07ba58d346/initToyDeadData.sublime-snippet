@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[initToyDeadData()]]></content>
-    <tabTrigger>initToyDeadData()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleBoard</description>
-</snippet>

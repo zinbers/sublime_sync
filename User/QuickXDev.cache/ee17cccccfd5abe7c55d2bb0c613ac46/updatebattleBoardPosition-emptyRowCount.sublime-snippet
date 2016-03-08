@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[updatebattleBoardPosition(${1:emptyRowCount})]]></content>
-    <tabTrigger>updatebattleBoardPosition(emptyRowCount)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleScene</description>
-</snippet>

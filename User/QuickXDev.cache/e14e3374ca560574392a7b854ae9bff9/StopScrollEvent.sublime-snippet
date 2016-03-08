@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[StopScrollEvent()]]></content>
-    <tabTrigger>StopScrollEvent()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>MapScene</description>
-</snippet>

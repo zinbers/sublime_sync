@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[runGetTargetEffect(${1:block})]]></content>
-    <tabTrigger>runGetTargetEffect(block)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>GameBoard</description>
-</snippet>

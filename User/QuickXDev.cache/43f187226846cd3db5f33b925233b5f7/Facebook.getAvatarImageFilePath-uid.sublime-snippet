@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[Facebook.getAvatarImageFilePath(${1:uid})]]></content>
-    <tabTrigger>Facebook.getAvatarImageFilePath(uid)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.reverseAceeTime]]></content>
-    <tabTrigger>self.reverseAceeTime</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

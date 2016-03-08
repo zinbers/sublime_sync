@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[obstacleBg]]></content>
-    <tabTrigger>obstacleBg</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[Facebook.getInviteFriendList()]]></content>
-    <tabTrigger>Facebook.getInviteFriendList()</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[midPos]]></content>
-    <tabTrigger>midPos</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

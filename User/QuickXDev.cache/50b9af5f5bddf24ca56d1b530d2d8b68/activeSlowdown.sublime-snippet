@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[activeSlowdown()]]></content>
-    <tabTrigger>activeSlowdown()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Toy</description>
-</snippet>

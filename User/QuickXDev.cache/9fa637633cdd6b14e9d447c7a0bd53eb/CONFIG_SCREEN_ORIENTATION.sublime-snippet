@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[CONFIG_SCREEN_ORIENTATION]]></content>
-    <tabTrigger>CONFIG_SCREEN_ORIENTATION</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

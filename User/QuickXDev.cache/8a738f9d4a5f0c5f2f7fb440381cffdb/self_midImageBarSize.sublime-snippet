@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.midImageBarSize]]></content>
-    <tabTrigger>self.midImageBarSize</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[onUpgrading(${1:percent})]]></content>
-    <tabTrigger>onUpgrading(percent)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>UpdateScene</description>
-</snippet>

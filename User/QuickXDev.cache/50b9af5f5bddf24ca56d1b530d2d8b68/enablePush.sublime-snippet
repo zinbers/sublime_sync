@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[enablePush()]]></content>
-    <tabTrigger>enablePush()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Toy</description>
-</snippet>

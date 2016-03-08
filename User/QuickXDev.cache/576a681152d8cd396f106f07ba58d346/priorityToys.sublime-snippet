@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[priorityToys]]></content>
-    <tabTrigger>priorityToys</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

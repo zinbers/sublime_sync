@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[UserData.getAssetVersion()]]></content>
-    <tabTrigger>UserData.getAssetVersion()</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

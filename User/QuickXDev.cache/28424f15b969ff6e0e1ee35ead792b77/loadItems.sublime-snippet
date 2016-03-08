@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[loadItems()]]></content>
-    <tabTrigger>loadItems()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ReplayList</description>
-</snippet>

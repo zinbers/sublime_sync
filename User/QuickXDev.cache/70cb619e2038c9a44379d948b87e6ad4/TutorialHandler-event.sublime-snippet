@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[TutorialHandler(${1:event})]]></content>
-    <tabTrigger>TutorialHandler(event)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>MapViewController</description>
-</snippet>

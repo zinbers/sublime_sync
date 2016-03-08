@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[tbFunc]]></content>
-    <tabTrigger>tbFunc</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

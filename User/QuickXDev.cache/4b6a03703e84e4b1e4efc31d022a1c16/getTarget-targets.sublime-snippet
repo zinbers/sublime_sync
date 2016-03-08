@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getTarget(${1:targets})]]></content>
-    <tabTrigger>getTarget(targets)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>LevelData</description>
-</snippet>

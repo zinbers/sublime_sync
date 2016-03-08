@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[onZoom(${1:point}, ${2:dc})]]></content>
-    <tabTrigger>onZoom(point, dc)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>TouchContainer</description>
-</snippet>

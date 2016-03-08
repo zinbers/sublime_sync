@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[AlertBox]]></content>
-    <tabTrigger>AlertBox</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

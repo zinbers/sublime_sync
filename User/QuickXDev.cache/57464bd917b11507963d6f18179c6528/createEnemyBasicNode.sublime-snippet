@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[createEnemyBasicNode()]]></content>
-    <tabTrigger>createEnemyBasicNode()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>DectectionUI</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[Facebook.isLoggedIn()]]></content>
-    <tabTrigger>Facebook.isLoggedIn()</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[BLOCK_TYPE_LOCK]]></content>
-    <tabTrigger>BLOCK_TYPE_LOCK</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

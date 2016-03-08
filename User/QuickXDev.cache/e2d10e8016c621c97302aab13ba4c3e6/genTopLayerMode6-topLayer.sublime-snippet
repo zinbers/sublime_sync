@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[genTopLayerMode6(${1:topLayer})]]></content>
-    <tabTrigger>genTopLayerMode6(topLayer)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>GameScene</description>
-</snippet>

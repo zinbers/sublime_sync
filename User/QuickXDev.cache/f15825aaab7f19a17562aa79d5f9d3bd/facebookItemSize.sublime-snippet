@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[facebookItemSize]]></content>
-    <tabTrigger>facebookItemSize</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[attackPop(${1:p}, ${2:house})]]></content>
-    <tabTrigger>attackPop(p, house)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>MapViewController</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.totalScore]]></content>
-    <tabTrigger>self.totalScore</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

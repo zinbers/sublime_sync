@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[musicEnabled]]></content>
-    <tabTrigger>musicEnabled</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

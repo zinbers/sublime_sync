@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[onRender()]]></content>
-    <tabTrigger>onRender()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>LoadingScene</description>
-</snippet>

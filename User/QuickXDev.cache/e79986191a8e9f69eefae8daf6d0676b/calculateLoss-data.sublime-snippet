@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[calculateLoss(${1:data})]]></content>
-    <tabTrigger>calculateLoss(data)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleUI</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getData()]]></content>
-    <tabTrigger>getData()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>SyncCommand</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setReplayMode()]]></content>
-    <tabTrigger>setReplayMode()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleUI</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[boolBuildingRange]]></content>
-    <tabTrigger>boolBuildingRange</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

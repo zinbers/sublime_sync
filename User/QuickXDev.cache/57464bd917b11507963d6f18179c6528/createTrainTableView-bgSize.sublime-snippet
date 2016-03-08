@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[createTrainTableView(${1:bgSize})]]></content>
-    <tabTrigger>createTrainTableView(bgSize)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>DectectionUI</description>
-</snippet>

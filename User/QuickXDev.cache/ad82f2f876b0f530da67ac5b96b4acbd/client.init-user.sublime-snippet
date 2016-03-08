@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[client.init(${1:user})]]></content>
-    <tabTrigger>client.init(user)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

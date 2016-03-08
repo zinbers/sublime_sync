@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.touchEnable]]></content>
-    <tabTrigger>self.touchEnable</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

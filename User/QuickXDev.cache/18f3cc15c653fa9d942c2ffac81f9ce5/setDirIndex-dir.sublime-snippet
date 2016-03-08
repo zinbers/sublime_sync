@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setDirIndex(${1:dir})]]></content>
-    <tabTrigger>setDirIndex(dir)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Building20011</description>
-</snippet>

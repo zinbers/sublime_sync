@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[minRange]]></content>
-    <tabTrigger>minRange</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

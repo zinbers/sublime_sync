@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.startAddEnergy]]></content>
-    <tabTrigger>self.startAddEnergy</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

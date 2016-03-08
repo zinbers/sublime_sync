@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[inAttackRange(${1:attacker}, ${2:target})]]></content>
-    <tabTrigger>inAttackRange(attacker, target)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleBoard</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[TEMP_DIR]]></content>
-    <tabTrigger>TEMP_DIR</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

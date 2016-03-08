@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.taskProgress]]></content>
-    <tabTrigger>self.taskProgress</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

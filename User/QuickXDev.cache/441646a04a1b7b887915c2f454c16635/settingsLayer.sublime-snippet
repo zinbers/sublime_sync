@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[settingsLayer]]></content>
-    <tabTrigger>settingsLayer</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

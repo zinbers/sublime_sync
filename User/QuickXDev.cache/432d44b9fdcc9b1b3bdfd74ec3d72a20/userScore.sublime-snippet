@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[userScore]]></content>
-    <tabTrigger>userScore</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

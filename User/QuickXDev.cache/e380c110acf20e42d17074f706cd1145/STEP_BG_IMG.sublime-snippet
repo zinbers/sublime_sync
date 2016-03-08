@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[STEP_BG_IMG]]></content>
-    <tabTrigger>STEP_BG_IMG</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

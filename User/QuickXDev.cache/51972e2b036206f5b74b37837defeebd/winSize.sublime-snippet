@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[winSize]]></content>
-    <tabTrigger>winSize</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

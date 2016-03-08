@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[UserData.limitStamp]]></content>
-    <tabTrigger>UserData.limitStamp</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

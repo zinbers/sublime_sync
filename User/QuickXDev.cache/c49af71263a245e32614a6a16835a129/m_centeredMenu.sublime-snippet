@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[m_centeredMenu]]></content>
-    <tabTrigger>m_centeredMenu</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

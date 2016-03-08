@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[socket]]></content>
-    <tabTrigger>socket</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

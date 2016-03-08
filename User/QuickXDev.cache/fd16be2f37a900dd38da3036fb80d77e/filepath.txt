@@ -1,1 +1,0 @@
-/Users/zhangbing/work/popbirds/src/app/gamescene/gameui/GameLoseLayer.lua

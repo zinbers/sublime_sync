@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.handleEvent]]></content>
-    <tabTrigger>self.handleEvent</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

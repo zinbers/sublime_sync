@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[processBattleResultData(${1:data})]]></content>
-    <tabTrigger>processBattleResultData(data)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleUI</description>
-</snippet>

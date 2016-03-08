@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[MID_OPACITY]]></content>
-    <tabTrigger>MID_OPACITY</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

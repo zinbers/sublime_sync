@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.comboProgress]]></content>
-    <tabTrigger>self.comboProgress</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

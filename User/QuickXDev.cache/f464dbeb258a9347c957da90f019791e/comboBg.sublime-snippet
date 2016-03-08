@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[comboBg]]></content>
-    <tabTrigger>comboBg</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

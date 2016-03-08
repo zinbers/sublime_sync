@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[Facebook.getList(${1:callback})]]></content>
-    <tabTrigger>Facebook.getList(callback)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

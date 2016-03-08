@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[Facebook.getFriendInfo(${1:functionCall}, ${2:functionCallback})]]></content>
-    <tabTrigger>Facebook.getFriendInfo(functionCall, functionCallback)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

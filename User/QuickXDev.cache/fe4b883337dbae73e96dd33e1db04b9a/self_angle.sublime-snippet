@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.angle]]></content>
-    <tabTrigger>self.angle</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

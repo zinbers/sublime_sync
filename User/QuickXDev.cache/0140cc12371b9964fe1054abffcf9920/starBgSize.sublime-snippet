@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[starBgSize]]></content>
-    <tabTrigger>starBgSize</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

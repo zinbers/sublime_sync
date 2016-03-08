@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[startPosY]]></content>
-    <tabTrigger>startPosY</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

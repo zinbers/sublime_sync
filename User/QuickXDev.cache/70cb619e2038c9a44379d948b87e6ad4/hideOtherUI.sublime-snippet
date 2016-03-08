@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[hideOtherUI()]]></content>
-    <tabTrigger>hideOtherUI()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>MapViewController</description>
-</snippet>

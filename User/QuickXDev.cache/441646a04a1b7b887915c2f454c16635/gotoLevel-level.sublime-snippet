@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[gotoLevel(${1:level})]]></content>
-    <tabTrigger>gotoLevel(level)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>MapSceneUI</description>
-</snippet>

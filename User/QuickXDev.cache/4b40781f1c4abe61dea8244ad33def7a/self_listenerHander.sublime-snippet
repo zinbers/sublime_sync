@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.listenerHander]]></content>
-    <tabTrigger>self.listenerHander</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

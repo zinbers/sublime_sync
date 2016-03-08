@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[snapToTop()]]></content>
-    <tabTrigger>snapToTop()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>GameBoard</description>
-</snippet>

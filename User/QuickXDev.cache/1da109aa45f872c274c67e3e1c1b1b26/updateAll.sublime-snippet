@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[updateAll()]]></content>
-    <tabTrigger>updateAll()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BottomLayer</description>
-</snippet>

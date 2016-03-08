@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.fragment]]></content>
-    <tabTrigger>self.fragment</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

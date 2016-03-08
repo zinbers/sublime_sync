@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[recoverHP(${1:hid})]]></content>
-    <tabTrigger>recoverHP(hid)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>totalData</description>
-</snippet>

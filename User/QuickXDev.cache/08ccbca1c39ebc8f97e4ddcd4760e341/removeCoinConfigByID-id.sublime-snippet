@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeCoinConfigByID(${1:id})]]></content>
-    <tabTrigger>removeCoinConfigByID(id)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>UserData</description>
-</snippet>

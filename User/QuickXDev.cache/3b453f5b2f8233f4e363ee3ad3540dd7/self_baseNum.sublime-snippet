@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.baseNum]]></content>
-    <tabTrigger>self.baseNum</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

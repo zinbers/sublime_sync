@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[UserData.currentLevel]]></content>
-    <tabTrigger>UserData.currentLevel</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

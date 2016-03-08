@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[drawBackground()]]></content>
-    <tabTrigger>drawBackground()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Landing</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[boxconfig1]]></content>
-    <tabTrigger>boxconfig1</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[n_toy]]></content>
-    <tabTrigger>n_toy</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

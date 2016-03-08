@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[exitLevelLayer]]></content>
-    <tabTrigger>exitLevelLayer</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

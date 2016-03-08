@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[pointY]]></content>
-    <tabTrigger>pointY</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

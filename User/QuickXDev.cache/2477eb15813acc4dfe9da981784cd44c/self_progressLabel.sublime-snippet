@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.progressLabel]]></content>
-    <tabTrigger>self.progressLabel</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

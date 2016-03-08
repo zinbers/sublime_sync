@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[enableHealthBar()]]></content>
-    <tabTrigger>enableHealthBar()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Building</description>
-</snippet>

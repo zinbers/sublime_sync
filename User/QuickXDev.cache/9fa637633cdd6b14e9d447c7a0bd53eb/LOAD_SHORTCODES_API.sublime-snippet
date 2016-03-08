@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[LOAD_SHORTCODES_API]]></content>
-    <tabTrigger>LOAD_SHORTCODES_API</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

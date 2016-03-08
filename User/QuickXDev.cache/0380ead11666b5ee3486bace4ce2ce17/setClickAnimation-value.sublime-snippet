@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setClickAnimation(${1:value})]]></content>
-    <tabTrigger>setClickAnimation(value)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>TutorialLayer</description>
-</snippet>

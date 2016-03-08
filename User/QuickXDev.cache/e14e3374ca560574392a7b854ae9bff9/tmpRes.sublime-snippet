@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[tmpRes]]></content>
-    <tabTrigger>tmpRes</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

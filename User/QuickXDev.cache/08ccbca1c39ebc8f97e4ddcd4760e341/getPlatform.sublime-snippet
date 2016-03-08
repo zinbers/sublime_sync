@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getPlatform()]]></content>
-    <tabTrigger>getPlatform()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>UserData</description>
-</snippet>

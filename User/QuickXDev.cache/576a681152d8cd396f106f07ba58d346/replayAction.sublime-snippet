@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[replayAction]]></content>
-    <tabTrigger>replayAction</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

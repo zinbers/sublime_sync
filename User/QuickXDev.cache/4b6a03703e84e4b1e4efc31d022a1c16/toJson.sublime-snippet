@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[toJson()]]></content>
-    <tabTrigger>toJson()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>LevelData</description>
-</snippet>

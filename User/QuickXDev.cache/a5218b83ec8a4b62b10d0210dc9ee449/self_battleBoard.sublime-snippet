@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.battleBoard]]></content>
-    <tabTrigger>self.battleBoard</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

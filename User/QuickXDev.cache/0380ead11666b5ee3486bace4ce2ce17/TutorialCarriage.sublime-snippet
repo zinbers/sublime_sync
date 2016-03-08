@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[TutorialCarriage]]></content>
-    <tabTrigger>TutorialCarriage</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

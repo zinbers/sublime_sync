@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[exitBtnLabel]]></content>
-    <tabTrigger>exitBtnLabel</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

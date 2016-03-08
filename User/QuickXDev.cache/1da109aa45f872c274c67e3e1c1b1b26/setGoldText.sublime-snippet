@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setGoldText()]]></content>
-    <tabTrigger>setGoldText()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BottomLayer</description>
-</snippet>

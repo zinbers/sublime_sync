@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[previewTextBgSize]]></content>
-    <tabTrigger>previewTextBgSize</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

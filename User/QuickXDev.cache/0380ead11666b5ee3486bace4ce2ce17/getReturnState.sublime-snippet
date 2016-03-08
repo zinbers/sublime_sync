@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getReturnState()]]></content>
-    <tabTrigger>getReturnState()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>TutorialLayer</description>
-</snippet>

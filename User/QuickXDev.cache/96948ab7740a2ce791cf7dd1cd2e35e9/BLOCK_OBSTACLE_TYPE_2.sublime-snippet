@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[BLOCK_OBSTACLE_TYPE_2]]></content>
-    <tabTrigger>BLOCK_OBSTACLE_TYPE_2</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

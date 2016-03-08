@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[MID_DISABLED]]></content>
-    <tabTrigger>MID_DISABLED</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

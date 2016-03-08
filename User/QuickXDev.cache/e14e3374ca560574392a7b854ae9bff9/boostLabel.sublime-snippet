@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[boostLabel]]></content>
-    <tabTrigger>boostLabel</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

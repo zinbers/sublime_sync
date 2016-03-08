@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self._baseNodeEventListener_]]></content>
-    <tabTrigger>self._baseNodeEventListener_</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

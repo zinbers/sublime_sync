@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.mapLayer]]></content>
-    <tabTrigger>self.mapLayer</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[baseFunc()]]></content>
-    <tabTrigger>baseFunc()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>baseClass</description>
-</snippet>

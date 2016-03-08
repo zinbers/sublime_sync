@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[genCellNode()]]></content>
-    <tabTrigger>genCellNode()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>collectLayer</description>
-</snippet>

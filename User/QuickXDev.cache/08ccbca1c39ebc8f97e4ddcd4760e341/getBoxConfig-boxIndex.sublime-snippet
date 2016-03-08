@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getBoxConfig(${1:boxIndex})]]></content>
-    <tabTrigger>getBoxConfig(boxIndex)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>UserData</description>
-</snippet>

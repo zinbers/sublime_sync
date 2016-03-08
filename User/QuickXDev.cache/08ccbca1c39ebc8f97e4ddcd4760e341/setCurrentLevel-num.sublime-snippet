@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setCurrentLevel(${1:num})]]></content>
-    <tabTrigger>setCurrentLevel(num)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>UserData</description>
-</snippet>

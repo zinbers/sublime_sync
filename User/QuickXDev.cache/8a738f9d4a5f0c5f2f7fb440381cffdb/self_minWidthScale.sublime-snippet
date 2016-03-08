@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.minWidthScale]]></content>
-    <tabTrigger>self.minWidthScale</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

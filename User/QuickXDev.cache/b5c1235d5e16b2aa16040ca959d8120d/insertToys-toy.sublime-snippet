@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[insertToys(${1:toy})]]></content>
-    <tabTrigger>insertToys(toy)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Bullet20016</description>
-</snippet>

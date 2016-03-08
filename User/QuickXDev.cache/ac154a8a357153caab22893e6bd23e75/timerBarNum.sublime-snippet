@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[timerBarNum]]></content>
-    <tabTrigger>timerBarNum</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

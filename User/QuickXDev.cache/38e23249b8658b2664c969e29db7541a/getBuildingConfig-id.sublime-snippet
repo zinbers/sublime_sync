@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getBuildingConfig(${1:id})]]></content>
-    <tabTrigger>getBuildingConfig(id)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>GameConfig</description>
-</snippet>

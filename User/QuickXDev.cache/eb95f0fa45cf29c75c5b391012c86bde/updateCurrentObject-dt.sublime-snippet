@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[updateCurrentObject(${1:dt})]]></content>
-    <tabTrigger>updateCurrentObject(dt)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>TouchContainer</description>
-</snippet>

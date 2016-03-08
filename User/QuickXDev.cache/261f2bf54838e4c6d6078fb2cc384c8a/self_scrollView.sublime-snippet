@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.scrollView]]></content>
-    <tabTrigger>self.scrollView</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

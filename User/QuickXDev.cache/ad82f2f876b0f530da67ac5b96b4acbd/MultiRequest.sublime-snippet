@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[multiRequest]]></content>
-    <tabTrigger>multiRequest</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

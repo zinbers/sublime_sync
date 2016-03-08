@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[prop.getCostFromAll]]></content>
-    <tabTrigger>prop.getCostFromAll</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[extname]]></content>
-    <tabTrigger>extname</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

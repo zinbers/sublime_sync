@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.backZero]]></content>
-    <tabTrigger>self.backZero</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

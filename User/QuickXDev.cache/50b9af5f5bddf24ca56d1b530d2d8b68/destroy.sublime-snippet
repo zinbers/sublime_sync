@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[destroy()]]></content>
-    <tabTrigger>destroy()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Toy</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[createBox()]]></content>
-    <tabTrigger>createBox()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>MapBox</description>
-</snippet>

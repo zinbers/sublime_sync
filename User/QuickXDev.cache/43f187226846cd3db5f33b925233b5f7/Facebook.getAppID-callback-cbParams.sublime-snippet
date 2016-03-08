@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[Facebook.getAppID(${1:callback}, ${2:cbParams})]]></content>
-    <tabTrigger>Facebook.getAppID(callback, cbParams)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

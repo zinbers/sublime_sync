@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[testDisappear()]]></content>
-    <tabTrigger>testDisappear()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Bullet20012</description>
-</snippet>

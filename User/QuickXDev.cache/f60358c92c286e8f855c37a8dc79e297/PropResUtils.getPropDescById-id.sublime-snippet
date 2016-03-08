@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[PropResUtils.getPropDescById(${1:id})]]></content>
-    <tabTrigger>PropResUtils.getPropDescById(id)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

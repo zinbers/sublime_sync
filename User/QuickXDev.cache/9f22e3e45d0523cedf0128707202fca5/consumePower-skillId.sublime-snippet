@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[consumePower(${1:skillId})]]></content>
-    <tabTrigger>consumePower(skillId)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleUI</description>
-</snippet>

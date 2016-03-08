@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.endTimes]]></content>
-    <tabTrigger>self.endTimes</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

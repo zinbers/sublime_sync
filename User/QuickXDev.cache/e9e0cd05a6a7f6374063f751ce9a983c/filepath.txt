@@ -1,1 +1,0 @@
-/Users/zhangbing/work/toyswar/ToysWar/runtime/ios/toyswar.app/scripts/main.lua

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[wall]]></content>
-    <tabTrigger>wall</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getNext(${1:...})]]></content>
-    <tabTrigger>getNext(...)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>RandomList</description>
-</snippet>

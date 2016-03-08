@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[onEnterFrame(${1:dt})]]></content>
-    <tabTrigger>onEnterFrame(dt)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>MyScene</description>
-</snippet>

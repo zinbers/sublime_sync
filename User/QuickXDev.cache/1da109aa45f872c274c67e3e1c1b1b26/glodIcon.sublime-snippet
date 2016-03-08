@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[glodIcon]]></content>
-    <tabTrigger>glodIcon</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getNearestToyDisInRow(${1:attackerID}, ${2:toy})]]></content>
-    <tabTrigger>getNearestToyDisInRow(attackerID, toy)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleBoard</description>
-</snippet>

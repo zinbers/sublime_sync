@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getBattleBoardInstance(${1:...})]]></content>
-    <tabTrigger>getBattleBoardInstance(...)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleUI</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[batch]]></content>
-    <tabTrigger>batch</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

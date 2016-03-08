@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[deleteBlocks(${1:blocks}, ${2:chain})]]></content>
-    <tabTrigger>deleteBlocks(blocks, chain)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>GameBoard</description>
-</snippet>

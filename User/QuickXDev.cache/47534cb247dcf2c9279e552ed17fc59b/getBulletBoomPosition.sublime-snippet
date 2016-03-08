@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getBulletBoomPosition()]]></content>
-    <tabTrigger>getBulletBoomPosition()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Building</description>
-</snippet>

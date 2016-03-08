@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getLevelData()]]></content>
-    <tabTrigger>getLevelData()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>MapFactory</description>
-</snippet>

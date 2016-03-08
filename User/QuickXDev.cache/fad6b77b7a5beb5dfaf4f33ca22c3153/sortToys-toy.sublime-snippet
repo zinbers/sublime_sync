@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[sortToys(${1:toy})]]></content>
-    <tabTrigger>sortToys(toy)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleBoard</description>
-</snippet>

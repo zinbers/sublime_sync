@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.direction]]></content>
-    <tabTrigger>self.direction</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

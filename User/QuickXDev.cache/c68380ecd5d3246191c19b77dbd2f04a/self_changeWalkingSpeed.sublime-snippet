@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.changeWalkingSpeed]]></content>
-    <tabTrigger>self.changeWalkingSpeed</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

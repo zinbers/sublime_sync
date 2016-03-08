@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[USER_PROP_ADDBOMB]]></content>
-    <tabTrigger>USER_PROP_ADDBOMB</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

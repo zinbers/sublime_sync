@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getNpcMaps()]]></content>
-    <tabTrigger>getNpcMaps()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>GameConfig</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.stateIcon]]></content>
-    <tabTrigger>self.stateIcon</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

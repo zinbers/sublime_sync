@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[textValign]]></content>
-    <tabTrigger>textValign</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

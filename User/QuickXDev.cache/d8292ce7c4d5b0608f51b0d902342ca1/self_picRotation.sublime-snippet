@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.picRotation]]></content>
-    <tabTrigger>self.picRotation</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[useDiamondNormal]]></content>
-    <tabTrigger>useDiamondNormal</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

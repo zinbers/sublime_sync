@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.downstate]]></content>
-    <tabTrigger>self.downstate</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

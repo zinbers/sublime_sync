@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[screenSize]]></content>
-    <tabTrigger>screenSize</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

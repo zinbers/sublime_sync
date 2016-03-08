@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.viewRect]]></content>
-    <tabTrigger>self.viewRect</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

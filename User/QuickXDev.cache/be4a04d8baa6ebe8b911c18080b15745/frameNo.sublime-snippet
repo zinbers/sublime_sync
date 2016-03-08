@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[frameNo]]></content>
-    <tabTrigger>frameNo</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

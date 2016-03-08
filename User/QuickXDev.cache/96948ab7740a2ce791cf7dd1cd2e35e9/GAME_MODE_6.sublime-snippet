@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[GAME_MODE_6]]></content>
-    <tabTrigger>GAME_MODE_6</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

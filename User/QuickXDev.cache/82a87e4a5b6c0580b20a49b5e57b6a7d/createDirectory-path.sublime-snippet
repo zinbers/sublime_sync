@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[createDirectory(${1:path})]]></content>
-    <tabTrigger>createDirectory(path)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>UpdateService</description>
-</snippet>

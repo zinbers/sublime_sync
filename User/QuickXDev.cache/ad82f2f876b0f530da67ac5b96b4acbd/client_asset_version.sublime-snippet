@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[client.asset_version]]></content>
-    <tabTrigger>client.asset_version</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

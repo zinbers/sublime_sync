@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isOnTargetX()]]></content>
-    <tabTrigger>isOnTargetX()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Block</description>
-</snippet>

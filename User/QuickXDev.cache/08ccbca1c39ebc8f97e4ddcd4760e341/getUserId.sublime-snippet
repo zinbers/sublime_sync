@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getUserId()]]></content>
-    <tabTrigger>getUserId()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>UserData</description>
-</snippet>

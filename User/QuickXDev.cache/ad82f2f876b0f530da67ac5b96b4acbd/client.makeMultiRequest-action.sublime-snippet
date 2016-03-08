@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[client.makeMultiRequest(${1:action})]]></content>
-    <tabTrigger>client.makeMultiRequest(action)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[updateToyPosition()]]></content>
-    <tabTrigger>updateToyPosition()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Toy</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setStepNumber(${1:num})]]></content>
-    <tabTrigger>setStepNumber(num)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>GameUI</description>
-</snippet>

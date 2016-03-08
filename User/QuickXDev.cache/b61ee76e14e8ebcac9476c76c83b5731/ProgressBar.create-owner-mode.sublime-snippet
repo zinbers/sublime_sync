@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ProgressBar.create(${1:owner}, ${2:mode})]]></content>
-    <tabTrigger>ProgressBar.create(owner, mode)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

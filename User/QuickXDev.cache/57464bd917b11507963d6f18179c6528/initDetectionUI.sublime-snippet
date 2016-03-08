@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[initDetectionUI()]]></content>
-    <tabTrigger>initDetectionUI()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>DectectionUI</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getSeed()]]></content>
-    <tabTrigger>getSeed()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>RandomList</description>
-</snippet>

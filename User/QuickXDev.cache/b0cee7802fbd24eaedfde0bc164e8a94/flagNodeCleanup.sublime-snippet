@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[flagNodeCleanup]]></content>
-    <tabTrigger>flagNodeCleanup</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

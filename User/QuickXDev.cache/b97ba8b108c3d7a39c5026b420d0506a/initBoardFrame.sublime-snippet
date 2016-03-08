@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[initBoardFrame()]]></content>
-    <tabTrigger>initBoardFrame()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>GameScene</description>
-</snippet>

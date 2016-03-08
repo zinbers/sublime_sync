@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getToyCreateLimit(${1:tid})]]></content>
-    <tabTrigger>getToyCreateLimit(tid)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>totalData</description>
-</snippet>

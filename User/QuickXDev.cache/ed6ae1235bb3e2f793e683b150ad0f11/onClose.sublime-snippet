@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[onClose()]]></content>
-    <tabTrigger>onClose()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleContinueLayer</description>
-</snippet>

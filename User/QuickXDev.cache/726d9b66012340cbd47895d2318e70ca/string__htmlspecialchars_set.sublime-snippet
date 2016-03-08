@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[string._htmlspecialchars_set]]></content>
-    <tabTrigger>string._htmlspecialchars_set</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

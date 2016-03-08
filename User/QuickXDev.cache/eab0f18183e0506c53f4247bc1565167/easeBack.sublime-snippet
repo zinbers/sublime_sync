@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[easeBack]]></content>
-    <tabTrigger>easeBack</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

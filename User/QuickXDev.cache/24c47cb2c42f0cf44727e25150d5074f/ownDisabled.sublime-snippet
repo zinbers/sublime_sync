@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ownDisabled]]></content>
-    <tabTrigger>ownDisabled</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[createUIInput(${1:options}, ${2:callBack})]]></content>
-    <tabTrigger>createUIInput(options, callBack)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Landing</description>
-</snippet>

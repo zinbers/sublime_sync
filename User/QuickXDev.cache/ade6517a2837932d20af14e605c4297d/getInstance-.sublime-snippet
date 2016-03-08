@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getInstance(${1:...})]]></content>
-    <tabTrigger>getInstance(...)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Test</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[propSelected]]></content>
-    <tabTrigger>propSelected</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

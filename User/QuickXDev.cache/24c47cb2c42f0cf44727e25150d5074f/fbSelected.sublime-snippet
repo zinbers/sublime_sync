@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[fbSelected]]></content>
-    <tabTrigger>fbSelected</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

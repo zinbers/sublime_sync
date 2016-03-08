@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[zipURL]]></content>
-    <tabTrigger>zipURL</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

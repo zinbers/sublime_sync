@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[touchAllAtOnceListener]]></content>
-    <tabTrigger>touchAllAtOnceListener</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

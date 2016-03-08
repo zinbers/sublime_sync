@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.mapOffsetX]]></content>
-    <tabTrigger>self.mapOffsetX</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

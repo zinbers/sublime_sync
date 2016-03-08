@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getSection()]]></content>
-    <tabTrigger>getSection()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>UserData</description>
-</snippet>

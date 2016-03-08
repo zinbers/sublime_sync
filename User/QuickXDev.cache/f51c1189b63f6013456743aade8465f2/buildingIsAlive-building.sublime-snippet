@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[buildingIsAlive(${1:building})]]></content>
-    <tabTrigger>buildingIsAlive(building)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleBoard</description>
-</snippet>

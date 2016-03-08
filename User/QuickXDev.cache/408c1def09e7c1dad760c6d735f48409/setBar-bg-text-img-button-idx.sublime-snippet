@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setBar(${1:bg}, ${2:text}, ${3:img}, ${4:button}, ${5:idx})]]></content>
-    <tabTrigger>setBar(bg, text, img, button, idx)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>MessagePanel</description>
-</snippet>

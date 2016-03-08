@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[modeLabel]]></content>
-    <tabTrigger>modeLabel</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

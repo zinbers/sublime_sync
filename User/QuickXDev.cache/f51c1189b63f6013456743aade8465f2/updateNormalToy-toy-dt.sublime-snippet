@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[updateNormalToy(${1:toy}, ${2:dt})]]></content>
-    <tabTrigger>updateNormalToy(toy, dt)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleBoard</description>
-</snippet>

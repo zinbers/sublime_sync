@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[updateGameBoardPosition(${1:emptyRowCount})]]></content>
-    <tabTrigger>updateGameBoardPosition(emptyRowCount)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>GameScene</description>
-</snippet>

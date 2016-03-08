@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[save()]]></content>
-    <tabTrigger>save()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>UserData</description>
-</snippet>

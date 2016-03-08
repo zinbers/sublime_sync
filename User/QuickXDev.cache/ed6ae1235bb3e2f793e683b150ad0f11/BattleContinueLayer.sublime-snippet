@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[BattleContinueLayer]]></content>
-    <tabTrigger>BattleContinueLayer</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

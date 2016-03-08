@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[genTopLayerMode7()]]></content>
-    <tabTrigger>genTopLayerMode7()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>TopLayer</description>
-</snippet>

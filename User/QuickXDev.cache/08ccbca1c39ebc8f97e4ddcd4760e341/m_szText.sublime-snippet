@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[m_szText]]></content>
-    <tabTrigger>m_szText</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

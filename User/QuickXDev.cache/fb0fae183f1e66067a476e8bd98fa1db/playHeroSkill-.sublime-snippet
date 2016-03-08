@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[playHeroSkill(${1:...})]]></content>
-    <tabTrigger>playHeroSkill(...)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleScene</description>
-</snippet>

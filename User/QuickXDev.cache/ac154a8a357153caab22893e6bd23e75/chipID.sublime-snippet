@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[chipID]]></content>
-    <tabTrigger>chipID</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

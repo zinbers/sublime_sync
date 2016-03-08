@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setPlatform(${1:platform})]]></content>
-    <tabTrigger>setPlatform(platform)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>UserData</description>
-</snippet>

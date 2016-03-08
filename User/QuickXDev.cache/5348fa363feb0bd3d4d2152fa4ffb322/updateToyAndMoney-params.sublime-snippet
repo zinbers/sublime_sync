@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[updateToyAndMoney(${1:params})]]></content>
-    <tabTrigger>updateToyAndMoney(params)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleUI</description>
-</snippet>

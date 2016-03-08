@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getClickLevel()]]></content>
-    <tabTrigger>getClickLevel()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>UserData</description>
-</snippet>

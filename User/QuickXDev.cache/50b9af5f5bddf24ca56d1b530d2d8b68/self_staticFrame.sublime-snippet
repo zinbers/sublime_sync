@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.staticFrame]]></content>
-    <tabTrigger>self.staticFrame</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

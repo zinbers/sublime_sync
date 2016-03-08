@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[genLineNode()]]></content>
-    <tabTrigger>genLineNode()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>MapScene</description>
-</snippet>

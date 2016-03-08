@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[upgradeTime]]></content>
-    <tabTrigger>upgradeTime</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

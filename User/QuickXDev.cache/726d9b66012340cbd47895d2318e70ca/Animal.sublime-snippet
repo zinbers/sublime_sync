@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[Animal]]></content>
-    <tabTrigger>Animal</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

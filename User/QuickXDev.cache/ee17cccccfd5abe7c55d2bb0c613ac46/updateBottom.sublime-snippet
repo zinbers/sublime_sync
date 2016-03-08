@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[updateBottom()]]></content>
-    <tabTrigger>updateBottom()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleScene</description>
-</snippet>

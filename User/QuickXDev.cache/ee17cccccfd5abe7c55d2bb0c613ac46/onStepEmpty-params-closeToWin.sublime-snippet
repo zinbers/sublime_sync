@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[onStepEmpty(${1:params}, ${2:closeToWin})]]></content>
-    <tabTrigger>onStepEmpty(params, closeToWin)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleScene</description>
-</snippet>

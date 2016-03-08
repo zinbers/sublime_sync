@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[updateFeathers(${1:dt})]]></content>
-    <tabTrigger>updateFeathers(dt)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>GameBoard</description>
-</snippet>

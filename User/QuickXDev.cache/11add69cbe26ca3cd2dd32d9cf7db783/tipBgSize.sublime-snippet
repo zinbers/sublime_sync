@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[tipBgSize]]></content>
-    <tabTrigger>tipBgSize</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

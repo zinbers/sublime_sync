@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[maxSpeed]]></content>
-    <tabTrigger>maxSpeed</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

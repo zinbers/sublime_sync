@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[mysplit(${1:inputstr}, ${2:sep})]]></content>
-    <tabTrigger>mysplit(inputstr, sep)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>LoadingScene</description>
-</snippet>

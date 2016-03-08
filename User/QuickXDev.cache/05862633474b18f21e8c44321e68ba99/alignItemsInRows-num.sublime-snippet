@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[alignItemsInRows(${1:num})]]></content>
-    <tabTrigger>alignItemsInRows(num)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ShrinkBox</description>
-</snippet>

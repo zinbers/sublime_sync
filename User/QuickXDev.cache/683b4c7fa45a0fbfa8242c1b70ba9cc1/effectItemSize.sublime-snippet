@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[effectItemSize]]></content>
-    <tabTrigger>effectItemSize</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

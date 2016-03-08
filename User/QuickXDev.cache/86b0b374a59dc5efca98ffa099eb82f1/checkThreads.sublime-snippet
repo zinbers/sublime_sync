@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[checkThreads()]]></content>
-    <tabTrigger>checkThreads()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>LoadingScene</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getMaxcell()]]></content>
-    <tabTrigger>getMaxcell()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>MapFactory</description>
-</snippet>

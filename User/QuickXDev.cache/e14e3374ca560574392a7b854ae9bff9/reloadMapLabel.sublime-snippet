@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[reloadMapLabel]]></content>
-    <tabTrigger>reloadMapLabel</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

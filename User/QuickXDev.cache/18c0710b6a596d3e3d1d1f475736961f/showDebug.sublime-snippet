@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[showDebug]]></content>
-    <tabTrigger>showDebug</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

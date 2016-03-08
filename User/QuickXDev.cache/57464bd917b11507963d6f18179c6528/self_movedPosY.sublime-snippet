@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.movedPosY]]></content>
-    <tabTrigger>self.movedPosY</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

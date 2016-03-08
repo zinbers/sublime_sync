@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[availableBuilding(${1:building})]]></content>
-    <tabTrigger>availableBuilding(building)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleBoard</description>
-</snippet>

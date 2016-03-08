@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[UserData.boxGainCoin]]></content>
-    <tabTrigger>UserData.boxGainCoin</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

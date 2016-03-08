@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ScrollViewBox]]></content>
-    <tabTrigger>ScrollViewBox</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

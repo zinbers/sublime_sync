@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[table.walk(${1:t}, ${2:fn})]]></content>
-    <tabTrigger>table.walk(t, fn)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

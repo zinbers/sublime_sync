@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[BLOCK_TYPE_TERRAIN_BLOCK]]></content>
-    <tabTrigger>BLOCK_TYPE_TERRAIN_BLOCK</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

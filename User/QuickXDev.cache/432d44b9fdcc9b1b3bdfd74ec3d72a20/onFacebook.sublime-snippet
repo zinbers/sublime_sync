@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[onFacebook()]]></content>
-    <tabTrigger>onFacebook()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>StartScene</description>
-</snippet>

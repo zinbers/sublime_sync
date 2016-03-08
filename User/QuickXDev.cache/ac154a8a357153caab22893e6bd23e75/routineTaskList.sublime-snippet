@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[routineTaskList]]></content>
-    <tabTrigger>routineTaskList</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

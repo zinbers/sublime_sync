@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[startHeroSkillScheduleBySkillId(${1:skillId})]]></content>
-    <tabTrigger>startHeroSkillScheduleBySkillId(skillId)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleUI</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getCostFromPreview(${1:id})]]></content>
-    <tabTrigger>getCostFromPreview(id)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

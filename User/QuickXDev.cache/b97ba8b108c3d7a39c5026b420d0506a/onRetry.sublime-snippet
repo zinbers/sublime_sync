@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[onRetry()]]></content>
-    <tabTrigger>onRetry()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>GameScene</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[enemyBasicNode]]></content>
-    <tabTrigger>enemyBasicNode</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

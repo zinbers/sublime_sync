@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[Loading]]></content>
-    <tabTrigger>Loading</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

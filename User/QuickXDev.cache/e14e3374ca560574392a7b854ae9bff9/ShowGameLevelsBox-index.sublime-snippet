@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ShowGameLevelsBox(${1:index})]]></content>
-    <tabTrigger>ShowGameLevelsBox(index)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>MapScene</description>
-</snippet>

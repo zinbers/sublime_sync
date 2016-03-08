@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[GameLoseLayer]]></content>
-    <tabTrigger>GameLoseLayer</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

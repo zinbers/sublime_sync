@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[updateScore(${1:params})]]></content>
-    <tabTrigger>updateScore(params)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleUI</description>
-</snippet>

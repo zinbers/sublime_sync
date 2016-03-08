@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self._keyboardEnabled]]></content>
-    <tabTrigger>self._keyboardEnabled</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

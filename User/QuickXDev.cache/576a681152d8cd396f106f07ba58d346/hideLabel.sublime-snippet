@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[hideLabel()]]></content>
-    <tabTrigger>hideLabel()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleBoard</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[checkBoxPos(${1:pos}, ${2:posArr})]]></content>
-    <tabTrigger>checkBoxPos(pos, posArr)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>UserData</description>
-</snippet>

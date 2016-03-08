@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[flag]]></content>
-    <tabTrigger>flag</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

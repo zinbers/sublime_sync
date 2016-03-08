@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[unload(${1:deletetable})]]></content>
-    <tabTrigger>unload(deletetable)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>LoadingScene</description>
-</snippet>

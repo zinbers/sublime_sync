@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.bulletType]]></content>
-    <tabTrigger>self.bulletType</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

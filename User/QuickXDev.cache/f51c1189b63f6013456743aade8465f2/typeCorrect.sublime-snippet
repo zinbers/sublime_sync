@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[typeCorrect]]></content>
-    <tabTrigger>typeCorrect</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

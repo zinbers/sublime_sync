@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[moveBuilding(${1:startSite}, ${2:destSite})]]></content>
-    <tabTrigger>moveBuilding(startSite, destSite)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>totalData</description>
-</snippet>

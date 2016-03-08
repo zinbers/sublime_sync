@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[seq1]]></content>
-    <tabTrigger>seq1</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

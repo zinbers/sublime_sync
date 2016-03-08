@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.yardWidth]]></content>
-    <tabTrigger>self.yardWidth</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

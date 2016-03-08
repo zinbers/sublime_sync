@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[onGameFail()]]></content>
-    <tabTrigger>onGameFail()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>GameBoard</description>
-</snippet>

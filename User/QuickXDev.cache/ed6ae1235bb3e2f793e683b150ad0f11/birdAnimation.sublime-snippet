@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[birdAnimation]]></content>
-    <tabTrigger>birdAnimation</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

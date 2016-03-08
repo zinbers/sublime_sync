@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addBgToTopLayer()]]></content>
-    <tabTrigger>addBgToTopLayer()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>TopLayer</description>
-</snippet>

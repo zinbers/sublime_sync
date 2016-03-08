@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ranklayer]]></content>
-    <tabTrigger>ranklayer</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

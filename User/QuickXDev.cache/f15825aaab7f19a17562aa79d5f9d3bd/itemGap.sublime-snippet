@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[itemGap]]></content>
-    <tabTrigger>itemGap</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

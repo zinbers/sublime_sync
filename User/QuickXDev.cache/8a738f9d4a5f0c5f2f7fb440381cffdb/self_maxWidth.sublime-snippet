@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.maxWidth]]></content>
-    <tabTrigger>self.maxWidth</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

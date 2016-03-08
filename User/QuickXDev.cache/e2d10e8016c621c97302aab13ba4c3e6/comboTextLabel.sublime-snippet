@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[comboTextLabel]]></content>
-    <tabTrigger>comboTextLabel</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

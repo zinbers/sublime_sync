@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setHomeLevel(${1:level})]]></content>
-    <tabTrigger>setHomeLevel(level)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>HomeScene</description>
-</snippet>

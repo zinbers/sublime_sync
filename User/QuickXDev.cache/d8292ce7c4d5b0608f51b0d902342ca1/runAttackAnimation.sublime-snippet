@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[runAttackAnimation()]]></content>
-    <tabTrigger>runAttackAnimation()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Building20002</description>
-</snippet>

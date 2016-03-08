@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[io.exists(${1:path})]]></content>
-    <tabTrigger>io.exists(path)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

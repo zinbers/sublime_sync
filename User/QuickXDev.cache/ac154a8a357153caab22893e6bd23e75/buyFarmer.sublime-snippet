@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[buyFarmer()]]></content>
-    <tabTrigger>buyFarmer()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>totalData</description>
-</snippet>

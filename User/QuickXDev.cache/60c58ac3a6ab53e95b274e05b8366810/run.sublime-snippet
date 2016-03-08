@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[run()]]></content>
-    <tabTrigger>run()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>MyApp</description>
-</snippet>

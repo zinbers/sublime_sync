@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[updateSilverCoin()]]></content>
-    <tabTrigger>updateSilverCoin()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>MapSceneUI</description>
-</snippet>

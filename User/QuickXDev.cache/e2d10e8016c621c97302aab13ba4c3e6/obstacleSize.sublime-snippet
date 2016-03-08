@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[obstacleSize]]></content>
-    <tabTrigger>obstacleSize</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

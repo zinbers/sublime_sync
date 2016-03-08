@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[MapFactory]]></content>
-    <tabTrigger>MapFactory</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

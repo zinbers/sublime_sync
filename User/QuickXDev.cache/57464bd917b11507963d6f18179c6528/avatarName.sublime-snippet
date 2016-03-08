@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[avatarName]]></content>
-    <tabTrigger>avatarName</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

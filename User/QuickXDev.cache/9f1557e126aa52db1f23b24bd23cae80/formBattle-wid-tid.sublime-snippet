@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[formBattle(${1:wid}, ${2:tid})]]></content>
-    <tabTrigger>formBattle(wid, tid)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>HomeScene</description>
-</snippet>

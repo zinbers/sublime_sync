@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ProgressBar]]></content>
-    <tabTrigger>ProgressBar</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

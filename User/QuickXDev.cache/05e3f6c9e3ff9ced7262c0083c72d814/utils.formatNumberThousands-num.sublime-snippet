@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[utils.formatNumberThousands(${1:num})]]></content>
-    <tabTrigger>utils.formatNumberThousands(num)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

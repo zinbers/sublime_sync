@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[npc]]></content>
-    <tabTrigger>npc</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

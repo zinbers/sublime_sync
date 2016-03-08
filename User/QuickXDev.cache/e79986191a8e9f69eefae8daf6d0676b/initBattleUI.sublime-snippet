@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[initBattleUI()]]></content>
-    <tabTrigger>initBattleUI()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleUI</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.AverageWights]]></content>
-    <tabTrigger>self.AverageWights</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

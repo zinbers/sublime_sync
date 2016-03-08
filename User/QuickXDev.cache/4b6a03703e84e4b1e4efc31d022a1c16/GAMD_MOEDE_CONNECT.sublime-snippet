@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[GAMD_MOEDE_CONNECT]]></content>
-    <tabTrigger>GAMD_MOEDE_CONNECT</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.mapID]]></content>
-    <tabTrigger>self.mapID</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

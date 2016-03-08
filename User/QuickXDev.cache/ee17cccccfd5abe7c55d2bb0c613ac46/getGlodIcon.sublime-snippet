@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getGlodIcon()]]></content>
-    <tabTrigger>getGlodIcon()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleScene</description>
-</snippet>

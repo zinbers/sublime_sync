@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[USER_PROP_BIG_BIRD]]></content>
-    <tabTrigger>USER_PROP_BIG_BIRD</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

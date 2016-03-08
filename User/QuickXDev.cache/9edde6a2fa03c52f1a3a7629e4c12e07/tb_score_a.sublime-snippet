@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[tb_score_a]]></content>
-    <tabTrigger>tb_score_a</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[heroSkill16008(${1:skillObj})]]></content>
-    <tabTrigger>heroSkill16008(skillObj)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleBoard</description>
-</snippet>

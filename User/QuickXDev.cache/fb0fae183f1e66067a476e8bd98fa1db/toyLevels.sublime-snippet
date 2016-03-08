@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[toyLevels]]></content>
-    <tabTrigger>toyLevels</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

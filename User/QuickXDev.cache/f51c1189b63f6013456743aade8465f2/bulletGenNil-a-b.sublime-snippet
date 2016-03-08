@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[bulletGenNil(${1:a}, ${2:b})]]></content>
-    <tabTrigger>bulletGenNil(a, b)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleBoard</description>
-</snippet>

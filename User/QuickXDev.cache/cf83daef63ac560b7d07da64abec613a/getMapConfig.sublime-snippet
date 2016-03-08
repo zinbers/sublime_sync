@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getMapConfig()]]></content>
-    <tabTrigger>getMapConfig()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>MapFactory</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[resetBoxTimeStamp()]]></content>
-    <tabTrigger>resetBoxTimeStamp()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>UserData</description>
-</snippet>

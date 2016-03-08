@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setZoneServer(${1:server})]]></content>
-    <tabTrigger>setZoneServer(server)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>UserData</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[popUpNum]]></content>
-    <tabTrigger>popUpNum</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[playBrickAnimation()]]></content>
-    <tabTrigger>playBrickAnimation()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>HomeScene</description>
-</snippet>

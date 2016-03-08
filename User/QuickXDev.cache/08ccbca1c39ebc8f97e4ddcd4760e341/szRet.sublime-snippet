@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[szRet]]></content>
-    <tabTrigger>szRet</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

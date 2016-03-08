@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setReplayResult(${1:result})]]></content>
-    <tabTrigger>setReplayResult(result)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>TutorialLayer</description>
-</snippet>

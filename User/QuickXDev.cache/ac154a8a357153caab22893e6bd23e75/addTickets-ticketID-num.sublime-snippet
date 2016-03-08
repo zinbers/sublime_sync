@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addTickets(${1:ticketID}, ${2:num})]]></content>
-    <tabTrigger>addTickets(ticketID, num)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>totalData</description>
-</snippet>

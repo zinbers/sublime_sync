@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.interval]]></content>
-    <tabTrigger>self.interval</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

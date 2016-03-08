@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[TestFBUserScene.create()]]></content>
-    <tabTrigger>TestFBUserScene.create()</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

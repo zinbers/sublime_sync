@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[red_dot_mail]]></content>
-    <tabTrigger>red_dot_mail</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

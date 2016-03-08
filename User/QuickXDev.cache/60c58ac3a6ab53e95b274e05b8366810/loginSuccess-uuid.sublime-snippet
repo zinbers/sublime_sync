@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[loginSuccess(${1:uuid})]]></content>
-    <tabTrigger>loginSuccess(uuid)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>MyApp</description>
-</snippet>

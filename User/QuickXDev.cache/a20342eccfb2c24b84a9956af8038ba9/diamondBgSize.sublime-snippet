@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[diamondBgSize]]></content>
-    <tabTrigger>diamondBgSize</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

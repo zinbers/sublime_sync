@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[updateToy10009()]]></content>
-    <tabTrigger>updateToy10009()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleScene</description>
-</snippet>

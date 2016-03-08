@@ -1,1 +1,0 @@
-/Users/zhangbing/Desktop/testscene1.lua

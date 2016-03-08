@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[trainList]]></content>
-    <tabTrigger>trainList</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

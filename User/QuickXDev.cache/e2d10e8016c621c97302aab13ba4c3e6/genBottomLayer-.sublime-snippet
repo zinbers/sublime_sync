@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[genBottomLayer(${1:...})]]></content>
-    <tabTrigger>genBottomLayer(...)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>GameScene</description>
-</snippet>

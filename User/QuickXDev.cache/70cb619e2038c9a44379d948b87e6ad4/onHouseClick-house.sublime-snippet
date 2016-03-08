@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[onHouseClick(${1:house})]]></content>
-    <tabTrigger>onHouseClick(house)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>MapViewController</description>
-</snippet>

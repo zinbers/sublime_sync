@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[changeState()]]></content>
-    <tabTrigger>changeState()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>HeartPurchaseView</description>
-</snippet>

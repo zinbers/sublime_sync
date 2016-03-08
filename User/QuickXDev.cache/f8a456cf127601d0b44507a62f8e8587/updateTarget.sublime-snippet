@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[updateTarget()]]></content>
-    <tabTrigger>updateTarget()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>GameBoard</description>
-</snippet>

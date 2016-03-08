@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[moduleFullName]]></content>
-    <tabTrigger>moduleFullName</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

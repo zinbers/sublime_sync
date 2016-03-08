@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[popObstacleBlock(${1:block})]]></content>
-    <tabTrigger>popObstacleBlock(block)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>GameBoard</description>
-</snippet>

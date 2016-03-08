@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeSpine(${1:spinePath})]]></content>
-    <tabTrigger>removeSpine(spinePath)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>LoadingScene</description>
-</snippet>

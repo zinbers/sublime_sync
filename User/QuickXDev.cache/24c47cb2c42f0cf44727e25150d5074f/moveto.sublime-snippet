@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[moveto]]></content>
-    <tabTrigger>moveto</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

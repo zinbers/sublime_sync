@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[hideBigMap()]]></content>
-    <tabTrigger>hideBigMap()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>HomeScene</description>
-</snippet>

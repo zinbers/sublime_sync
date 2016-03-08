@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[mergeSyncCommand(${1:command})]]></content>
-    <tabTrigger>mergeSyncCommand(command)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>SyncCommand</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[gainBuildScore(${1:score})]]></content>
-    <tabTrigger>gainBuildScore(score)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleBoard</description>
-</snippet>

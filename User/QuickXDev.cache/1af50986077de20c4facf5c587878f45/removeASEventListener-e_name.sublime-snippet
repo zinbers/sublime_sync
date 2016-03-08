@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeASEventListener(${1:e_name})]]></content>
-    <tabTrigger>removeASEventListener(e_name)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>helper</description>
-</snippet>

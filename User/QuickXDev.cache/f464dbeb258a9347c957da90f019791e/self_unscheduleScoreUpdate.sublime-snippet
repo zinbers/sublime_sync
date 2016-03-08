@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.unscheduleScoreUpdate]]></content>
-    <tabTrigger>self.unscheduleScoreUpdate</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

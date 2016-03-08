@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[py]]></content>
-    <tabTrigger>py</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

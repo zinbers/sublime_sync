@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.quitButtonEnable]]></content>
-    <tabTrigger>self.quitButtonEnable</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[toyMoveDown(${1:sender})]]></content>
-    <tabTrigger>toyMoveDown(sender)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleUI</description>
-</snippet>

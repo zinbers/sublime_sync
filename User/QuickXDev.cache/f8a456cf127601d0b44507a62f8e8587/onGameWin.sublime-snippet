@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[onGameWin()]]></content>
-    <tabTrigger>onGameWin()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>GameBoard</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.currentIndex]]></content>
-    <tabTrigger>self.currentIndex</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

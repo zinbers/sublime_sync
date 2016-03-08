@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getEquipChip()]]></content>
-    <tabTrigger>getEquipChip()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>totalData</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.bulletDelay]]></content>
-    <tabTrigger>self.bulletDelay</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

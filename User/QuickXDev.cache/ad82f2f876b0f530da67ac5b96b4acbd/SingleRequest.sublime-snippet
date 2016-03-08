@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[singleRequest]]></content>
-    <tabTrigger>singleRequest</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

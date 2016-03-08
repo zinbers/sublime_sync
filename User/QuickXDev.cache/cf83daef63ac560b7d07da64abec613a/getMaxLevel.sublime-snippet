@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getMaxLevel()]]></content>
-    <tabTrigger>getMaxLevel()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>MapFactory</description>
-</snippet>

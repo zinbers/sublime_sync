@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.remoteVersionCode]]></content>
-    <tabTrigger>self.remoteVersionCode</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

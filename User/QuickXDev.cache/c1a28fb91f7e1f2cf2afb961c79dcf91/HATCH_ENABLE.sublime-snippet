@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[HATCH_ENABLE]]></content>
-    <tabTrigger>HATCH_ENABLE</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

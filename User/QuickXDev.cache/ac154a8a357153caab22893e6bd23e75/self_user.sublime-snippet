@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.user]]></content>
-    <tabTrigger>self.user</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

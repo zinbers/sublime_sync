@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.finishedAddToy]]></content>
-    <tabTrigger>self.finishedAddToy</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

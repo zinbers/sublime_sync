@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[faceBooksize]]></content>
-    <tabTrigger>faceBooksize</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

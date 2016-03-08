@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.friendButton]]></content>
-    <tabTrigger>self.friendButton</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

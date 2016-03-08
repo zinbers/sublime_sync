@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[registerListener()]]></content>
-    <tabTrigger>registerListener()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>SWFLayer</description>
-</snippet>

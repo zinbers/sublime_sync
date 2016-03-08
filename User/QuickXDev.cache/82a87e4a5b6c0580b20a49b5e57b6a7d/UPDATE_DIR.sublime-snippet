@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[UPDATE_DIR]]></content>
-    <tabTrigger>UPDATE_DIR</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

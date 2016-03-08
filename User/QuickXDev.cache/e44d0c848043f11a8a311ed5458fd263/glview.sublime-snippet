@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[glview]]></content>
-    <tabTrigger>glview</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

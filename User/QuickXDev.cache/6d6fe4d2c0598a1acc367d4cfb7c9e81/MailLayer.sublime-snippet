@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[MailLayer]]></content>
-    <tabTrigger>MailLayer</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

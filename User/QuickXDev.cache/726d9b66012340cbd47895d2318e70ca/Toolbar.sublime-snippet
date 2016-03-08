@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[Toolbar]]></content>
-    <tabTrigger>Toolbar</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

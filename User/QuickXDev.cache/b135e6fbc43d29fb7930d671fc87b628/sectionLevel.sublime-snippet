@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[sectionLevel]]></content>
-    <tabTrigger>sectionLevel</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

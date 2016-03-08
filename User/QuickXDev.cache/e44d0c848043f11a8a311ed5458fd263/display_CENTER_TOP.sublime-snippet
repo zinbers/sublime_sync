@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[display.CENTER_TOP]]></content>
-    <tabTrigger>display.CENTER_TOP</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

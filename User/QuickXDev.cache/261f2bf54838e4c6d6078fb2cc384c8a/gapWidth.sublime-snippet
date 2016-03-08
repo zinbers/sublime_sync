@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[gapWidth]]></content>
-    <tabTrigger>gapWidth</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

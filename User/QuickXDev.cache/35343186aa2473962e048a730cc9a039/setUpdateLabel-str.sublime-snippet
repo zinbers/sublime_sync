@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setUpdateLabel(${1:str})]]></content>
-    <tabTrigger>setUpdateLabel(str)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>UpdateScene</description>
-</snippet>

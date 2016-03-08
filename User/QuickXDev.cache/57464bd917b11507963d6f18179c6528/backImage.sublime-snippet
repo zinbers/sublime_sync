@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[backImage]]></content>
-    <tabTrigger>backImage</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

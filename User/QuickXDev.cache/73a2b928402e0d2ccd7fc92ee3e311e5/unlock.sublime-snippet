@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[unlock]]></content>
-    <tabTrigger>unlock</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

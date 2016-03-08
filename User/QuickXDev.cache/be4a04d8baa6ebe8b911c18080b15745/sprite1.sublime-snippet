@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[sprite1]]></content>
-    <tabTrigger>sprite1</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[inRange]]></content>
-    <tabTrigger>inRange</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

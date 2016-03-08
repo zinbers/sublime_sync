@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[tutorialHandle(${1:command})]]></content>
-    <tabTrigger>tutorialHandle(command)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>TutorialLayer</description>
-</snippet>

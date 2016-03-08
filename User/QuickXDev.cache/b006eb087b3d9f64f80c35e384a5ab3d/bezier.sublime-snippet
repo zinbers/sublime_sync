@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[bezier]]></content>
-    <tabTrigger>bezier</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

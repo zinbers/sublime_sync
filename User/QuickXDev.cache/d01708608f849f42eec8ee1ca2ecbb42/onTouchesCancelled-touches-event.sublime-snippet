@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[onTouchesCancelled(${1:touches}, ${2:event})]]></content>
-    <tabTrigger>onTouchesCancelled(touches, event)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>SWFLayer</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[carriageCount]]></content>
-    <tabTrigger>carriageCount</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[createChip(${1:type}, ${2:size}, ${3:callBack}, ${4:isShowLoading})]]></content>
-    <tabTrigger>createChip(type, size, callBack, isShowLoading)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>totalData</description>
-</snippet>

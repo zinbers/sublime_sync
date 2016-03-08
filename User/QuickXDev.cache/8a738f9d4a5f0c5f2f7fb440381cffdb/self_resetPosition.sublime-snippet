@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.resetPosition]]></content>
-    <tabTrigger>self.resetPosition</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[init(${1:obj})]]></content>
-    <tabTrigger>init(obj)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>MapFactory</description>
-</snippet>

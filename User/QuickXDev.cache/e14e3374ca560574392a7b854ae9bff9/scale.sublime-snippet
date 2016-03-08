@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[scale]]></content>
-    <tabTrigger>scale</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

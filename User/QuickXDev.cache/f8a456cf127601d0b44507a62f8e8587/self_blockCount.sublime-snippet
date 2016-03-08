@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.blockCount]]></content>
-    <tabTrigger>self.blockCount</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

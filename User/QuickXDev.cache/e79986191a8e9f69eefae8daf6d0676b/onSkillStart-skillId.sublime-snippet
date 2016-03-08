@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[onSkillStart(${1:skillId})]]></content>
-    <tabTrigger>onSkillStart(skillId)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleUI</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[cost]]></content>
-    <tabTrigger>cost</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

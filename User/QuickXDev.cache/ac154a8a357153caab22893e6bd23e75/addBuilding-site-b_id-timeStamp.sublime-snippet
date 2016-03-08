@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addBuilding(${1:site}, ${2:b_id}, ${3:timeStamp})]]></content>
-    <tabTrigger>addBuilding(site, b_id, timeStamp)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>totalData</description>
-</snippet>

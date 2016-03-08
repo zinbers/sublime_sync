@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addBowLabel(${1:toy}, ${2:bulletAttackerID}, ${3:bulletIndex})]]></content>
-    <tabTrigger>addBowLabel(toy, bulletAttackerID, bulletIndex)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleBoard</description>
-</snippet>

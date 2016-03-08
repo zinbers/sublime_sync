@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[cancelUpgradeToy()]]></content>
-    <tabTrigger>cancelUpgradeToy()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>totalData</description>
-</snippet>

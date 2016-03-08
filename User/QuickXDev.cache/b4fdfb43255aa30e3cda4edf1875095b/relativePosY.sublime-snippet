@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[relativePosY]]></content>
-    <tabTrigger>relativePosY</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

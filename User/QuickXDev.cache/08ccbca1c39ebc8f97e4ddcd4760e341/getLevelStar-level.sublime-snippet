@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getLevelStar(${1:level})]]></content>
-    <tabTrigger>getLevelStar(level)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>UserData</description>
-</snippet>

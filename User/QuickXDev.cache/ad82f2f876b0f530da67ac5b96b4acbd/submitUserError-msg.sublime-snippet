@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[submitUserError(${1:msg})]]></content>
-    <tabTrigger>submitUserError(msg)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>client</description>
-</snippet>

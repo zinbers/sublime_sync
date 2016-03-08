@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[updateAttackedEffect()]]></content>
-    <tabTrigger>updateAttackedEffect()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Toy</description>
-</snippet>

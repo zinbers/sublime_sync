@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[LineData.getData()]]></content>
-    <tabTrigger>LineData.getData()</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getFlashAnimation()]]></content>
-    <tabTrigger>getFlashAnimation()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>TutorialLayer</description>
-</snippet>

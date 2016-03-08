@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[__xRepeat]]></content>
-    <tabTrigger>__xRepeat</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

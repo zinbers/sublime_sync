@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[MapModel]]></content>
-    <tabTrigger>MapModel</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

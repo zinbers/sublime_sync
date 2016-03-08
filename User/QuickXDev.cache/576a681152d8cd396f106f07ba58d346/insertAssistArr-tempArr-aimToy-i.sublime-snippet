@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[insertAssistArr(${1:tempArr}, ${2:aimToy}, ${3:i})]]></content>
-    <tabTrigger>insertAssistArr(tempArr, aimToy, i)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleBoard</description>
-</snippet>

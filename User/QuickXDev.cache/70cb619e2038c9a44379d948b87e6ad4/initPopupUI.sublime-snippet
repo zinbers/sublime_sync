@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[initPopupUI()]]></content>
-    <tabTrigger>initPopupUI()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>MapViewController</description>
-</snippet>

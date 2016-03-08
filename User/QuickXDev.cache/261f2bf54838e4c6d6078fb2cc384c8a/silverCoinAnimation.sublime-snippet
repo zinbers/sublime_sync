@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[silverCoinAnimation()]]></content>
-    <tabTrigger>silverCoinAnimation()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>MapScene</description>
-</snippet>

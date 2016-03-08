@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[localJson]]></content>
-    <tabTrigger>localJson</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

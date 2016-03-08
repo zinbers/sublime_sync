@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[checkCompleted()]]></content>
-    <tabTrigger>checkCompleted()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>UpdateService</description>
-</snippet>

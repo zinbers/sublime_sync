@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[finishedUpgradeCarriage(${1:mapID})]]></content>
-    <tabTrigger>finishedUpgradeCarriage(mapID)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>totalData</description>
-</snippet>

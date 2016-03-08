@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[GAME_EVENT_PROP_CONSUME_SUCCESS]]></content>
-    <tabTrigger>GAME_EVENT_PROP_CONSUME_SUCCESS</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

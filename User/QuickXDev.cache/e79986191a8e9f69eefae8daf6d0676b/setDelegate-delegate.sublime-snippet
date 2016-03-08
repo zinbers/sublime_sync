@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setDelegate(${1:delegate})]]></content>
-    <tabTrigger>setDelegate(delegate)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleUI</description>
-</snippet>

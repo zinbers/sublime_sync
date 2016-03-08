@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addBirdToTopLayer()]]></content>
-    <tabTrigger>addBirdToTopLayer()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>TopLayer</description>
-</snippet>

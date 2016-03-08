@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[delay]]></content>
-    <tabTrigger>delay</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

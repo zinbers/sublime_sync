@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[fileExists(${1:path})]]></content>
-    <tabTrigger>fileExists(path)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>UpdateService</description>
-</snippet>

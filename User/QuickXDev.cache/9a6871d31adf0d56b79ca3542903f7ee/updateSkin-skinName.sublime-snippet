@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[updateSkin(${1:skinName})]]></content>
-    <tabTrigger>updateSkin(skinName)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Building20010</description>
-</snippet>

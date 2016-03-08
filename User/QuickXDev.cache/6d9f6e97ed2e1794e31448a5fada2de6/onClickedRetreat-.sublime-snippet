@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[onClickedRetreat(${1:...})]]></content>
-    <tabTrigger>onClickedRetreat(...)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleScene</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[retry()]]></content>
-    <tabTrigger>retry()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>GameBoard</description>
-</snippet>

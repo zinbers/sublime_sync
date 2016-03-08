@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[showDebugScene()]]></content>
-    <tabTrigger>showDebugScene()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>MapScene</description>
-</snippet>

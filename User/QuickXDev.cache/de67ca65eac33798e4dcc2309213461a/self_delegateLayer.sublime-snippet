@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.delegateLayer]]></content>
-    <tabTrigger>self.delegateLayer</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

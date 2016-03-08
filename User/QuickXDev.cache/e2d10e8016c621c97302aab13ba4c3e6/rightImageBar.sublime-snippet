@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[rightImageBar]]></content>
-    <tabTrigger>rightImageBar</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

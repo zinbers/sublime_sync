@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[objTemp]]></content>
-    <tabTrigger>objTemp</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

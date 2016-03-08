@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[updateEffect(${1:dt})]]></content>
-    <tabTrigger>updateEffect(dt)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Building</description>
-</snippet>

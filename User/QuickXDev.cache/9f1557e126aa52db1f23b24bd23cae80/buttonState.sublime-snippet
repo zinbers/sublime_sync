@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[buttonState]]></content>
-    <tabTrigger>buttonState</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

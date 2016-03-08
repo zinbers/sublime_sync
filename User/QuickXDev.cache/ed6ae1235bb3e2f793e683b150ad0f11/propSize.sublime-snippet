@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[propSize]]></content>
-    <tabTrigger>propSize</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

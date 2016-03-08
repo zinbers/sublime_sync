@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isSkillReady(${1:...})]]></content>
-    <tabTrigger>isSkillReady(...)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleUI</description>
-</snippet>

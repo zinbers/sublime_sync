@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[dispathLabelEvent()]]></content>
-    <tabTrigger>dispathLabelEvent()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>TutorialLayer</description>
-</snippet>

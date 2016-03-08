@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[n_skill]]></content>
-    <tabTrigger>n_skill</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

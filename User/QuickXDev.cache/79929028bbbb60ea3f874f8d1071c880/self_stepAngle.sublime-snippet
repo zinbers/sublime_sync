@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.stepAngle]]></content>
-    <tabTrigger>self.stepAngle</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

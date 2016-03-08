@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[containerScale]]></content>
-    <tabTrigger>containerScale</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

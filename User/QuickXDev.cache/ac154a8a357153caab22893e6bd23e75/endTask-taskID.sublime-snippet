@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[endTask(${1:taskID})]]></content>
-    <tabTrigger>endTask(taskID)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>totalData</description>
-</snippet>

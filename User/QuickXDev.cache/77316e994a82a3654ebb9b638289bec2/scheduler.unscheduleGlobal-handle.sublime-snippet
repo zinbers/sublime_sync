@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[scheduler.unscheduleGlobal(${1:handle})]]></content>
-    <tabTrigger>scheduler.unscheduleGlobal(handle)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

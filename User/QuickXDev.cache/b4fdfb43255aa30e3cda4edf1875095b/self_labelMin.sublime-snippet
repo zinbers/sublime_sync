@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.labelMin]]></content>
-    <tabTrigger>self.labelMin</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[initAs()]]></content>
-    <tabTrigger>initAs()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Swfui</description>
-</snippet>

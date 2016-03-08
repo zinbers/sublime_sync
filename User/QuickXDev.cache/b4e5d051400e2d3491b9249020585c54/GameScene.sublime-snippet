@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[GameScene]]></content>
-    <tabTrigger>GameScene</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

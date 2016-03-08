@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[createMapLayer(${1:type})]]></content>
-    <tabTrigger>createMapLayer(type)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>MapScene</description>
-</snippet>

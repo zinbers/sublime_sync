@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[initTutorial()]]></content>
-    <tabTrigger>initTutorial()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>HomeScene</description>
-</snippet>

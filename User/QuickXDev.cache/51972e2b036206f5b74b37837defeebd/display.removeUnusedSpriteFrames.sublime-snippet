@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[display.removeUnusedSpriteFrames()]]></content>
-    <tabTrigger>display.removeUnusedSpriteFrames()</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

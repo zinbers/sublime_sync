@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeNodeEventListener(${1:listener})]]></content>
-    <tabTrigger>removeNodeEventListener(listener)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Node</description>
-</snippet>

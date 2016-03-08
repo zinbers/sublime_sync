@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[changeReplaylistState(${1:value})]]></content>
-    <tabTrigger>changeReplaylistState(value)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>MapViewController</description>
-</snippet>

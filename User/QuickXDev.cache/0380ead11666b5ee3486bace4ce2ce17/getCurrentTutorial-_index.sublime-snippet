@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getCurrentTutorial(${1:_index})]]></content>
-    <tabTrigger>getCurrentTutorial(_index)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>TutorialLayer</description>
-</snippet>

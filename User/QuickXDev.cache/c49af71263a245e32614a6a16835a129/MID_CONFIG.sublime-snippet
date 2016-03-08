@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[MID_CONFIG]]></content>
-    <tabTrigger>MID_CONFIG</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

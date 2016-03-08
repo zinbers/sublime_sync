@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[startCreateTime]]></content>
-    <tabTrigger>startCreateTime</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

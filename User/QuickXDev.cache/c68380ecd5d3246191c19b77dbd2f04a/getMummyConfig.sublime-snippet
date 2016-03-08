@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getMummyConfig()]]></content>
-    <tabTrigger>getMummyConfig()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Bullet20013</description>
-</snippet>

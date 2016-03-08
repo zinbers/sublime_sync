@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[USER_PROP_NONE]]></content>
-    <tabTrigger>USER_PROP_NONE</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.deadCleanFlag]]></content>
-    <tabTrigger>self.deadCleanFlag</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

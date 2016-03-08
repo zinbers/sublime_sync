@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getBuildingMaxLevel(${1:b_id})]]></content>
-    <tabTrigger>getBuildingMaxLevel(b_id)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>totalData</description>
-</snippet>

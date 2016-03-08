@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[superType]]></content>
-    <tabTrigger>superType</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

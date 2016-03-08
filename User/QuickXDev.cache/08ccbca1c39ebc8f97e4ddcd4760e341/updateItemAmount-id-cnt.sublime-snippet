@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[updateItemAmount(${1:id}, ${2:cnt})]]></content>
-    <tabTrigger>updateItemAmount(id, cnt)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>UserData</description>
-</snippet>

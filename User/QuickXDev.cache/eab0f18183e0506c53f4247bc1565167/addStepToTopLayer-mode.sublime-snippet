@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addStepToTopLayer(${1:mode})]]></content>
-    <tabTrigger>addStepToTopLayer(mode)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>TopLayer</description>
-</snippet>

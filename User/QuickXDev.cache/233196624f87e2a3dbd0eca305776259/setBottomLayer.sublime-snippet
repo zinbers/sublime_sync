@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setBottomLayer()]]></content>
-    <tabTrigger>setBottomLayer()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Building20006</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[SoldierLayer]]></content>
-    <tabTrigger>SoldierLayer</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

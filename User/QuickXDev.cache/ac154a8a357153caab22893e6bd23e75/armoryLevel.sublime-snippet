@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[armoryLevel]]></content>
-    <tabTrigger>armoryLevel</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

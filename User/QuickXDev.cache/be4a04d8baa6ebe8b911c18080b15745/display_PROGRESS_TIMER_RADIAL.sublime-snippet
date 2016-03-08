@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[display.PROGRESS_TIMER_RADIAL]]></content>
-    <tabTrigger>display.PROGRESS_TIMER_RADIAL</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

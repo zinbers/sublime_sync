@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[schedule]]></content>
-    <tabTrigger>schedule</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

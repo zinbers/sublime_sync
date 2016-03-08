@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[LOCAL_VERSION]]></content>
-    <tabTrigger>LOCAL_VERSION</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

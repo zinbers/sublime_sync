@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.originSeed]]></content>
-    <tabTrigger>self.originSeed</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

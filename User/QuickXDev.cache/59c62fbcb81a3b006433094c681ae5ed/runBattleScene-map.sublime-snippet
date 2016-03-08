@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[runBattleScene(${1:map})]]></content>
-    <tabTrigger>runBattleScene(map)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>MapScene</description>
-</snippet>

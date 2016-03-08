@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[sendInvite()]]></content>
-    <tabTrigger>sendInvite()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>LeaderboardPanel</description>
-</snippet>

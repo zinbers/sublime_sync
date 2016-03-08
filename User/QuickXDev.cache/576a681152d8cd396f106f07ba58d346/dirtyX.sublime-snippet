@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[dirtyX]]></content>
-    <tabTrigger>dirtyX</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

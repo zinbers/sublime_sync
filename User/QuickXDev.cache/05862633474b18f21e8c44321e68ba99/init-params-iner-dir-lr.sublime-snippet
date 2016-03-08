@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[init(${1:params}, ${2:iner}, ${3:dir}, ${4:lr})]]></content>
-    <tabTrigger>init(params, iner, dir, lr)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ShrinkBox</description>
-</snippet>

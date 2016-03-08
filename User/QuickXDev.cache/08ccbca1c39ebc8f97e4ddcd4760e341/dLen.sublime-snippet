@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[dLen]]></content>
-    <tabTrigger>dLen</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

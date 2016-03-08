@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[import(${1:moduleName}, ${2:currentModuleName})]]></content>
-    <tabTrigger>import(moduleName, currentModuleName)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

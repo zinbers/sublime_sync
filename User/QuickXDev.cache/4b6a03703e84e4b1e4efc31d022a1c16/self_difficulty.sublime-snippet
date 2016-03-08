@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.difficulty]]></content>
-    <tabTrigger>self.difficulty</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

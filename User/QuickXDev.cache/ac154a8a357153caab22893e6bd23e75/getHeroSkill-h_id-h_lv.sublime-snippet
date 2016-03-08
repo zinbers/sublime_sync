@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getHeroSkill(${1:h_id}, ${2:h_lv})]]></content>
-    <tabTrigger>getHeroSkill(h_id, h_lv)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>totalData</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[silverIconSize]]></content>
-    <tabTrigger>silverIconSize</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

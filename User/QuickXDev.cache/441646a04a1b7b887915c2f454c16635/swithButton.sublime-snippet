@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[swithButton]]></content>
-    <tabTrigger>swithButton</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[onConfigResponse(${1:request})]]></content>
-    <tabTrigger>onConfigResponse(request)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>UpdateService</description>
-</snippet>

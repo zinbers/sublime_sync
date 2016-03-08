@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[tbText]]></content>
-    <tabTrigger>tbText</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

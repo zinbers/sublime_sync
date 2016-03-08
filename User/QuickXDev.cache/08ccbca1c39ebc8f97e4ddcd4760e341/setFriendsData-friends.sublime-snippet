@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setFriendsData(${1:friends})]]></content>
-    <tabTrigger>setFriendsData(friends)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>UserData</description>
-</snippet>

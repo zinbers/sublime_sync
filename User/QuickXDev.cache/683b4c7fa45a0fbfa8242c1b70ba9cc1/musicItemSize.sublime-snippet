@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[musicItemSize]]></content>
-    <tabTrigger>musicItemSize</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[initSkin()]]></content>
-    <tabTrigger>initSkin()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>LoadingScene</description>
-</snippet>

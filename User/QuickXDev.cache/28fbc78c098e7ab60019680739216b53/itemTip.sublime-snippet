@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[itemTip]]></content>
-    <tabTrigger>itemTip</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

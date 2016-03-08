@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[updateMailBtn()]]></content>
-    <tabTrigger>updateMailBtn()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>MapScene</description>
-</snippet>

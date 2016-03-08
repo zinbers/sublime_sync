@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addObstacleToTopLayer()]]></content>
-    <tabTrigger>addObstacleToTopLayer()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>TopLayer</description>
-</snippet>

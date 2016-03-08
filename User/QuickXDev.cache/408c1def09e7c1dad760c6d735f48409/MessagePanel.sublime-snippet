@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[MessagePanel]]></content>
-    <tabTrigger>MessagePanel</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

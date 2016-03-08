@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getToysOnGround()]]></content>
-    <tabTrigger>getToysOnGround()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleBoard</description>
-</snippet>

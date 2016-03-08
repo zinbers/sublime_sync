@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[totalHP]]></content>
-    <tabTrigger>totalHP</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

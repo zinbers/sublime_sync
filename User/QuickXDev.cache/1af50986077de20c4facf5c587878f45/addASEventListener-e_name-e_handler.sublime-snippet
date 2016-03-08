@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addASEventListener(${1:e_name}, ${2:e_handler})]]></content>
-    <tabTrigger>addASEventListener(e_name, e_handler)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>helper</description>
-</snippet>

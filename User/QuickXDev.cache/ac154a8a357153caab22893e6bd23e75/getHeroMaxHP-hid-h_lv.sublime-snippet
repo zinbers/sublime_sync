@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getHeroMaxHP(${1:hid}, ${2:h_lv})]]></content>
-    <tabTrigger>getHeroMaxHP(hid, h_lv)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>totalData</description>
-</snippet>

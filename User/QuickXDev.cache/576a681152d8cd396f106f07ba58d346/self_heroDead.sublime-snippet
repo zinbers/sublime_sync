@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.heroDead]]></content>
-    <tabTrigger>self.heroDead</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[Facebook.getImage(${1:url}, ${2:uid}, ${3:callback})]]></content>
-    <tabTrigger>Facebook.getImage(url, uid, callback)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

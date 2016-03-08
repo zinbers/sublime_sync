@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setUser(${1:n_user})]]></content>
-    <tabTrigger>setUser(n_user)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>totalData</description>
-</snippet>

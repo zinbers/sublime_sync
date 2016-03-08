@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[enableLuaEvent(${1:_enable})]]></content>
-    <tabTrigger>enableLuaEvent(_enable)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>helper</description>
-</snippet>

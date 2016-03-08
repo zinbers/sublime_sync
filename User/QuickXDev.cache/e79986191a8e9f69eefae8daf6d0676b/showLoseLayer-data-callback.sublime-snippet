@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[showLoseLayer(${1:data}, ${2:callback})]]></content>
-    <tabTrigger>showLoseLayer(data, callback)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleUI</description>
-</snippet>

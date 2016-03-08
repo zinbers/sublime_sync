@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.glodBox]]></content>
-    <tabTrigger>self.glodBox</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

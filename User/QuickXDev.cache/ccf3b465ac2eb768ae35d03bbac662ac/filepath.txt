@@ -1,1 +1,0 @@
-/Users/zhangbing/work/popbirds/frameworks/runtime-src/proj.android_no_anysdk/assets/src/app/gamescene/gameui/GameRankLayer.lua

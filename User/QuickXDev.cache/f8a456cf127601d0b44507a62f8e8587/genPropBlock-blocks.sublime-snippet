@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[genPropBlock(${1:blocks})]]></content>
-    <tabTrigger>genPropBlock(blocks)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>GameBoard</description>
-</snippet>

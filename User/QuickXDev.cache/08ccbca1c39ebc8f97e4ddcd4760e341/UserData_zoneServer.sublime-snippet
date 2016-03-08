@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[UserData.zoneServer]]></content>
-    <tabTrigger>UserData.zoneServer</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

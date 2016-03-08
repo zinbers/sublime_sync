@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[loadSFX()]]></content>
-    <tabTrigger>loadSFX()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>MyApp</description>
-</snippet>

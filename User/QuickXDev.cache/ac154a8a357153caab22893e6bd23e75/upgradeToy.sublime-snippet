@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[upgradeToy]]></content>
-    <tabTrigger>upgradeToy</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

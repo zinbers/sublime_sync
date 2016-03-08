@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[client.makeSingleRequest(${1:action}, ${2:callback})]]></content>
-    <tabTrigger>client.makeSingleRequest(action, callback)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

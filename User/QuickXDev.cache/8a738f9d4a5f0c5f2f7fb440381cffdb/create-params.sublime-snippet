@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[create(${1:params})]]></content>
-    <tabTrigger>create(params)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Progress</description>
-</snippet>

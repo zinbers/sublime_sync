@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[onStep(${1:dt})]]></content>
-    <tabTrigger>onStep(dt)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Bullet20013</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setTargets(${1:targets})]]></content>
-    <tabTrigger>setTargets(targets)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleUI</description>
-</snippet>

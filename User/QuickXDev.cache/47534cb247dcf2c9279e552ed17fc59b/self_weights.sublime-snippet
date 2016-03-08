@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.weights]]></content>
-    <tabTrigger>self.weights</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

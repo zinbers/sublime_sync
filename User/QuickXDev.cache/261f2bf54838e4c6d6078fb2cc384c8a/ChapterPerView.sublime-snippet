@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ChapterPerView]]></content>
-    <tabTrigger>ChapterPerView</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

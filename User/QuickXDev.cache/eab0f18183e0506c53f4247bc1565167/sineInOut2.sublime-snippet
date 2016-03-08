@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[sineInOut2]]></content>
-    <tabTrigger>sineInOut2</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

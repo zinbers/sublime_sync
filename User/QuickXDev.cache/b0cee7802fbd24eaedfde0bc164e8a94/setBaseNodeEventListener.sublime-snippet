@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setBaseNodeEventListener()]]></content>
-    <tabTrigger>setBaseNodeEventListener()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Node</description>
-</snippet>

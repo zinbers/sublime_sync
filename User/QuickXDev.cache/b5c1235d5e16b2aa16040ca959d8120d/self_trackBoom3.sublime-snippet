@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.trackBoom3]]></content>
-    <tabTrigger>self.trackBoom3</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

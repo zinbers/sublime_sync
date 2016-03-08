@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.totalTime]]></content>
-    <tabTrigger>self.totalTime</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

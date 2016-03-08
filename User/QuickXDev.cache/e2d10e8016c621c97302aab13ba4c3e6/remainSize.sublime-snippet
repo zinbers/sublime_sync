@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[remainSize]]></content>
-    <tabTrigger>remainSize</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

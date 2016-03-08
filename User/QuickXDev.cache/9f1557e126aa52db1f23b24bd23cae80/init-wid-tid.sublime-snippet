@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[init(${1:wid}, ${2:tid})]]></content>
-    <tabTrigger>init(wid, tid)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>HomeScene</description>
-</snippet>

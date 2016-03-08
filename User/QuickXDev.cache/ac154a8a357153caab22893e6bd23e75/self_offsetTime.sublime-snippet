@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.offsetTime]]></content>
-    <tabTrigger>self.offsetTime</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

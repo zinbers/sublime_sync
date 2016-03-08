@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[toyMove(${1:sender}, ${2:offsetPos})]]></content>
-    <tabTrigger>toyMove(sender, offsetPos)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleUI</description>
-</snippet>

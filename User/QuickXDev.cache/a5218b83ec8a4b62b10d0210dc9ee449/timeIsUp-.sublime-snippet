@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[timeIsUp(${1:...})]]></content>
-    <tabTrigger>timeIsUp(...)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleScene</description>
-</snippet>

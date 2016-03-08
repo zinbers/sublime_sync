@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[STATIC_OBSTACLE_TYPE_MAX]]></content>
-    <tabTrigger>STATIC_OBSTACLE_TYPE_MAX</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[bid]]></content>
-    <tabTrigger>bid</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

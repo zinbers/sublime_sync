@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[resetStep()]]></content>
-    <tabTrigger>resetStep()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>TutorialLayer</description>
-</snippet>

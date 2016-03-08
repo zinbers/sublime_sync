@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[finishAll(${1:index})]]></content>
-    <tabTrigger>finishAll(index)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>TutorialLayer</description>
-</snippet>

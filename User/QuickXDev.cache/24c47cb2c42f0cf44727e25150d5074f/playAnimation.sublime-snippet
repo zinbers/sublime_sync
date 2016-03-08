@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[playAnimation()]]></content>
-    <tabTrigger>playAnimation()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>GameRankLayer</description>
-</snippet>

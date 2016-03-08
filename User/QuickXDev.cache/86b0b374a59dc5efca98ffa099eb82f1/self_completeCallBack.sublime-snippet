@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.completeCallBack]]></content>
-    <tabTrigger>self.completeCallBack</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

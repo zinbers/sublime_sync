@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[touchBuilding(${1:pos})]]></content>
-    <tabTrigger>touchBuilding(pos)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>BattleBoard</description>
-</snippet>

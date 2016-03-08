@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[cmd]]></content>
-    <tabTrigger>cmd</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

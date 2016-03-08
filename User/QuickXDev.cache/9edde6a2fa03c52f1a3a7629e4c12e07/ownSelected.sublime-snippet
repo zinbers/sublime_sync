@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ownSelected]]></content>
-    <tabTrigger>ownSelected</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

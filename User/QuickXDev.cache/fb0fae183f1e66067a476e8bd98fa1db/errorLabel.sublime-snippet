@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[errorLabel]]></content>
-    <tabTrigger>errorLabel</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

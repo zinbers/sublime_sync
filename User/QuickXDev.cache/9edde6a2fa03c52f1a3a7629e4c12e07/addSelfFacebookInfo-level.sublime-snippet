@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addSelfFacebookInfo(${1:level})]]></content>
-    <tabTrigger>addSelfFacebookInfo(level)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>LeaderboardPanel</description>
-</snippet>

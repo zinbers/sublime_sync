@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addMultiBlockToTopLayer(${1:mode})]]></content>
-    <tabTrigger>addMultiBlockToTopLayer(mode)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>TopLayer</description>
-</snippet>

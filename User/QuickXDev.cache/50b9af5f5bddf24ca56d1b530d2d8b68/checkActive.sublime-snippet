@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[checkActive()]]></content>
-    <tabTrigger>checkActive()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Toy</description>
-</snippet>

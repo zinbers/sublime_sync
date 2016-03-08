@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[showHideMapButton(${1:visible})]]></content>
-    <tabTrigger>showHideMapButton(visible)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>HomeScene</description>
-</snippet>

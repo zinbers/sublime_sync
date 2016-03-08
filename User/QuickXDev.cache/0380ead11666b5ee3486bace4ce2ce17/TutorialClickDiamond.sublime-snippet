@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[TutorialClickDiamond]]></content>
-    <tabTrigger>TutorialClickDiamond</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

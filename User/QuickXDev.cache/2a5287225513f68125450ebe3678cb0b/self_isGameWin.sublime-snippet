@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[self.isGameWin]]></content>
-    <tabTrigger>self.isGameWin</tabTrigger>
-    <scope>source.lua</scope>
-    <description>.</description>
-</snippet>

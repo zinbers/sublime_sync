@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[recordTutorial()]]></content>
-    <tabTrigger>recordTutorial()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>TutorialLayer</description>
-</snippet>
